@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/AddDeleteNoteToFarm.py" line="391" />
+    <bookmark url="file://$PROJECT_DIR$/HC24AutomationRun.py" line="210" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/HC24AutomationRun.py" line="224" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3340eb3-7bb9-4d73-9528-824f46a4e7f6" name="Default" comment="" />
+    <ignored path="Selenium.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Selenium$filterlogs.coverage" NAME="filterlogs Coverage Results" MODIFIED="1432708598842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../filterSCRLogs" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_DashboardDataTestFirefox_test_1_DashboardDataSwitch_process_on_Firefox.coverage" NAME="Unittest DashboardDataTestFirefox.test_1_DashboardDataSwitch_process_on_Firefox Coverage Results" MODIFIED="1433417318971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_openMoreReportsTestFirefox_test_5_SwitchBetweenPagesOfAllCowsReport_on_Firefox.coverage" NAME="Unittest openMoreReportsTestFirefox.test_5_SwitchBetweenPagesOfAllCowsReport_on_Firefox Coverage Results" MODIFIED="1433762814260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_RegistrationTestFirefox_test_1_Registretion_New_mail_process_on_Firefox.coverage" NAME="Unittest RegistrationTestFirefox.test_1_Registretion_New_mail_process_on_Firefox Coverage Results" MODIFIED="1437055679500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTest_test_Login_process_on_Firefox.coverage" NAME="Unittest LoginTest.test_Login_process_on_Firefox Coverage Results" MODIFIED="1431008045274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTestIE_test_logout_process_on_IE.coverage" NAME="Unittest LoginTestIE.test_logout_process_on_IE Coverage Results" MODIFIED="1431190488829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_SwitchReportsTestChrome_test_2_SwitchBetweenReports_on_Chrome.coverage" NAME="Unittest SwitchReportsTestChrome.test_2_SwitchBetweenReports_on_Chrome Coverage Results" MODIFIED="1433936472282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_SettingsTabSwitchTestFirefox_test_3_Logout_process_on_Firefox.coverage" NAME="Unittest SettingsTabSwitchTestFirefox.test_3_Logout_process_on_Firefox Coverage Results" MODIFIED="1432565198035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LanguageChangeTestFirefox_test_1_Login_process_on_Firefox.coverage" NAME="Unittest LanguageChangeTestFirefox.test_1_Login_process_on_Firefox Coverage Results" MODIFIED="1435061908088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_Selenium.coverage" NAME="Unittests in Selenium Coverage Results" MODIFIED="1436685688118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_DashboardDataTestFirefox_test_2_DashboardDataSwitch_process_on_Firefox.coverage" NAME="Unittest DashboardDataTestFirefox.test_2_DashboardDataSwitch_process_on_Firefox Coverage Results" MODIFIED="1432312246054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTest.coverage" NAME="Unittests in LoginTest Coverage Results" MODIFIED="1431008191461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_SwitchReportsTestFirefox_test_2_BatchActions_on_Firefox.coverage" NAME="Unittest SwitchReportsTestFirefox.test_2_BatchActions_on_Firefox Coverage Results" MODIFIED="1435844635598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_openMoreReportsTestFirefox_test_3_SwitchBetweenReports_on_Firefox.coverage" NAME="Unittest openMoreReportsTestFirefox.test_3_SwitchBetweenReports_on_Firefox Coverage Results" MODIFIED="1433741379979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_FarmTrendsSwitchFirefox_test_2_Switch_Farm_Trends.coverage" NAME="Unittest FarmTrendsSwitchFirefox.test_2_Switch_Farm_Trends Coverage Results" MODIFIED="1435399728859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_FullCowCardEditTestFirefox__1_.coverage" NAME="Unittests in FullCowCardEditTestFirefox (1) Coverage Results" MODIFIED="1435341656097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$searchproduct.coverage" NAME="searchproduct Coverage Results" MODIFIED="1429943218323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$UseClassmethod.coverage" NAME="UseClassmethod Coverage Results" MODIFIED="1429967877672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTest_test_enter_username_password.coverage" NAME="Unittest LoginTest.test_enter_username_password Coverage Results" MODIFIED="1430897905572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$UseTestCase.coverage" NAME="UseTestCase Coverage Results" MODIFIED="1429963545006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_SwitchBetweenGraphsTestFirefox_test_2_Graphswitch_on_Firefox.coverage" NAME="Unittest SwitchBetweenGraphsTestFirefox.test_2_Graphswitch_on_Firefox Coverage Results" MODIFIED="1434288340430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_DashboardDataTesFirefox_test_Login_process_on_Firefox.coverage" NAME="Unittest DashboardDataTesFirefox.test_Login_process_on_Firefox Coverage Results" MODIFIED="1431959272911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_HC24Dashboard.coverage" NAME="Unittests in HC24Dashboard Coverage Results" MODIFIED="1431011475944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTest__1_.coverage" NAME="Unittests in LoginTest (1) Coverage Results" MODIFIED="1430891693069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_HC24Login.coverage" NAME="Unittests in HC24Login Coverage Results" MODIFIED="1431954855707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTesFirefox_test_Login_process_on_Firefox__2_.coverage" NAME="Unittest LoginTesFirefox.test_Login_process_on_Firefox (2) Coverage Results" MODIFIED="1431187151086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_SearchTest_test_search_by_name.coverage" NAME="Unittest SearchTest.test_search_by_name Coverage Results" MODIFIED="1429966076001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_SearchTest_test_search_by_category.coverage" NAME="Unittest SearchTest.test_search_by_category Coverage Results" MODIFIED="1429963576211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTesFirefox_test_logout_process_on_Firefox.coverage" NAME="Unittest LoginTesFirefox.test_logout_process_on_Firefox Coverage Results" MODIFIED="1431189768341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTest__4_.coverage" NAME="Unittests in LoginTest (4) Coverage Results" MODIFIED="1430891621025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$useChrome.coverage" NAME="useChrome Coverage Results" MODIFIED="1430506959560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_SearchTest_test_search_by_category__1_.coverage" NAME="Unittest SearchTest.test_search_by_category (1) Coverage Results" MODIFIED="1430146918988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_DashboardData.coverage" NAME="Unittests in DashboardData Coverage Results" MODIFIED="1433416848772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$useHTMLReport.coverage" NAME="useHTMLReport Coverage Results" MODIFIED="1429987076175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_FullCowCardEditTestFirefox.coverage" NAME="Unittests in FullCowCardEditTestFirefox Coverage Results" MODIFIED="1435122104662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_AddDeleteNoteToFarmChrome_test_1_Login_process_on_Chrome.coverage" NAME="Unittest AddDeleteNoteToFarmChrome.test_1_Login_process_on_Chrome Coverage Results" MODIFIED="1433070803009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTestIE.coverage" NAME="Unittests in LoginTestIE Coverage Results" MODIFIED="1431203014156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_SettingsTestChrome.coverage" NAME="Unittests in SettingsTestChrome Coverage Results" MODIFIED="1432557795372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_SettingsTabSwitchTestChrome.coverage" NAME="Unittests in SettingsTabSwitchTestChrome Coverage Results" MODIFIED="1432647706254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTest__2_.coverage" NAME="Unittests in LoginTest (2) Coverage Results" MODIFIED="1430833592700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$DashbordData1.coverage" NAME="DashbordData1 Coverage Results" MODIFIED="1431876743961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_DashboardDataTestChrome.coverage" NAME="Unittests in DashboardDataTestChrome Coverage Results" MODIFIED="1433081133394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_PrivacyTermTestFirefox_test_2_PrivacyTermPages_Firefox.coverage" NAME="Unittest PrivacyTermTestFirefox.test_2_PrivacyTermPages_Firefox Coverage Results" MODIFIED="1434516802436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_DashboardDataTesFirefox_test_DashboardDataSwitch_process_on_Firefox.coverage" NAME="Unittest DashboardDataTesFirefox.test_DashboardDataSwitch_process_on_Firefox Coverage Results" MODIFIED="1431962069609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$desktop.coverage" NAME="desktop Coverage Results" MODIFIED="1430505285555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../desktopApp" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTesFirefox_test_Login_process_on_Firefox__1_.coverage" NAME="Unittest LoginTesFirefox.test_Login_process_on_Firefox (1) Coverage Results" MODIFIED="1431186432653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_SettingsTabSwitchTestFirefox_test_2_Switch_tabs_on_Settings_page_on_Firefox.coverage" NAME="Unittest SettingsTabSwitchTestFirefox.test_2_Switch_tabs_on_Settings_page_on_Firefox Coverage Results" MODIFIED="1432565264494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$HC24AutomationRun.coverage" NAME="HC24AutomationRun Coverage Results" MODIFIED="1437467510434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_NotIdentifiednavigationIE_test_2_Not_Identified_Report_IE.coverage" NAME="Unittest NotIdentifiednavigationIE.test_2_Not_Identified_Report_IE Coverage Results" MODIFIED="1432984511553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTest__3_.coverage" NAME="Unittests in LoginTest (3) Coverage Results" MODIFIED="1430889789793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_AddNoteToFarmFirefox_test_1_Login_process_on_Firefox.coverage" NAME="Unittest AddNoteToFarmFirefox.test_1_Login_process_on_Firefox Coverage Results" MODIFIED="1433054018203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTestChrome_test_Logout_process_on_Chrome.coverage" NAME="Unittest LoginTestChrome.test_Logout_process_on_Chrome Coverage Results" MODIFIED="1431616416305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$HC24LoginLogoutReport.coverage" NAME="HC24LoginLogoutReport Coverage Results" MODIFIED="1432617507593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_DashboardDataTesFirefox__1_.coverage" NAME="Unittests in DashboardDataTesFirefox (1) Coverage Results" MODIFIED="1431871023670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_openMoreReportsTestFirefox.coverage" NAME="Unittests in openMoreReportsTestFirefox Coverage Results" MODIFIED="1433750539454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_AddNewCowCardTestFirefox_test_2_AddNewCowCard_on_Firefox.coverage" NAME="Unittest AddNewCowCardTestFirefox.test_2_AddNewCowCard_on_Firefox Coverage Results" MODIFIED="1434372937550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_DashboardDataTestFirefox.coverage" NAME="Unittests in DashboardDataTestFirefox Coverage Results" MODIFIED="1433417732288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_OpenMoreReports.coverage" NAME="Unittests in OpenMoreReports Coverage Results" MODIFIED="1433741398064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$useIE.coverage" NAME="useIE Coverage Results" MODIFIED="1429954940630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTesFirefox_test_Login_process_on_Firefox.coverage" NAME="Unittest LoginTesFirefox.test_Login_process_on_Firefox Coverage Results" MODIFIED="1431358370102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_AddNewCowCardTestChrome_test_2_AddNewCowCard_on_Chrome.coverage" NAME="Unittest AddNewCowCardTestChrome.test_2_AddNewCowCard_on_Chrome Coverage Results" MODIFIED="1434546856172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_DashboardDataTesFirefox.coverage" NAME="Unittests in DashboardDataTesFirefox Coverage Results" MODIFIED="1431954695590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_openMoreReportsTestFirefox_test_2_OpenMoreReports_on_Firefox.coverage" NAME="Unittest openMoreReportsTestFirefox.test_2_OpenMoreReports_on_Firefox Coverage Results" MODIFIED="1433082234112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittest_openMoreReportsTestFirefox_test_2_DashboardDataSwitch_process_on_Firefox.coverage" NAME="Unittest openMoreReportsTestFirefox.test_2_DashboardDataSwitch_process_on_Firefox Coverage Results" MODIFIED="1433750606315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Selenium" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HC24AutomationRun.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HC24AutomationRun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6462141">
+              <caret line="238" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/searchproduct.py" />
+        <option value="$PROJECT_DIR$/useIE.py" />
+        <option value="$PROJECT_DIR$/useChrome.py" />
+        <option value="$PROJECT_DIR$/UseTestCase.py" />
+        <option value="$PROJECT_DIR$/UseClassmethod.py" />
+        <option value="$PROJECT_DIR$/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/useHTMLReport.py" />
+        <option value="$PROJECT_DIR$/../desktopApp/desktop.py" />
+        <option value="$PROJECT_DIR$/HC24LoginLogoutReport.py" />
+        <option value="$PROJECT_DIR$/AddNoteToFarm.py" />
+        <option value="$PROJECT_DIR$/NotIdentified.py" />
+        <option value="$PROJECT_DIR$/OpenHeatReport.py" />
+        <option value="$PROJECT_DIR$/AddDeleteNoteToFarm.py" />
+        <option value="$PROJECT_DIR$/SettingsEntry.py" />
+        <option value="$PROJECT_DIR$/SettingsTabNavigation.py" />
+        <option value="$PROJECT_DIR$/HC24Dashboard.py" />
+        <option value="$PROJECT_DIR$/junk.py" />
+        <option value="$PROJECT_DIR$/HC24Login.py" />
+        <option value="$PROJECT_DIR$/DashboardData.py" />
+        <option value="$PROJECT_DIR$/SwtchBetweenPagesOnAllCowsReport.py" />
+        <option value="$PROJECT_DIR$/OpenPDFReport.py" />
+        <option value="$PROJECT_DIR$/SwitchPagesWithArrows.py" />
+        <option value="$PROJECT_DIR$/SwitchBetweenReports.py" />
+        <option value="$PROJECT_DIR$/SwitchGraphsOfCowCard.py" />
+        <option value="$PROJECT_DIR$/OpenHealthReport.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/CowCardSwitchBetweenGraphs.py" />
+        <option value="$PROJECT_DIR$/NextPrevCowCard.py" />
+        <option value="$PROJECT_DIR$/FindCowFromDataTab.py" />
+        <option value="$PROJECT_DIR$/TermAndPolicyPages.py" />
+        <option value="$PROJECT_DIR$/draft.py" />
+        <option value="$PROJECT_DIR$/LanguageChange.py" />
+        <option value="$PROJECT_DIR$/FullCowCardEdit.py" />
+        <option value="$PROJECT_DIR$/FarmTrendsNavigation.py" />
+        <option value="$PROJECT_DIR$/BatchActions.py" />
+        <option value="$PROJECT_DIR$/AddNewCowCard.py" />
+        <option value="$PROJECT_DIR$/draft1.py" />
+        <option value="$PROJECT_DIR$/RegistrationTest.py" />
+        <option value="$PROJECT_DIR$/OpenMoreReports.py" />
+        <option value="$PROJECT_DIR$/HC24AutomationRun.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Selenium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Selenium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Selenium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="configurable.group.editor" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python27\Scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.HC24AutomationRun">
+    <configuration default="false" name="Unittest FarmTrendsSwitchFirefox.test_2_Switch_Farm_Trends" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FarmTrendsNavigation.py" />
+      <option name="CLASS_NAME" value="FarmTrendsSwitchFirefox" />
+      <option name="METHOD_NAME" value="test_2_Switch_Farm_Trends" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest SwitchReportsTestFirefox.test_2_BatchActions_on_Firefox" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BatchActions.py" />
+      <option name="CLASS_NAME" value="SwitchReportsTestFirefox" />
+      <option name="METHOD_NAME" value="test_2_BatchActions_on_Firefox" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in Selenium" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest RegistrationTestFirefox.test_1_Registretion_New_mail_process_on_Firefox" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RegistrationTest.py" />
+      <option name="CLASS_NAME" value="RegistrationTestFirefox" />
+      <option name="METHOD_NAME" value="test_1_Registretion_New_mail_process_on_Firefox" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HC24AutomationRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HC24AutomationRun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest FarmTrendsSwitchFirefox.test_2_Switch_Farm_Trends" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest SwitchReportsTestFirefox.test_2_BatchActions_on_Firefox" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Selenium" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest RegistrationTestFirefox.test_1_Registretion_New_mail_process_on_Firefox" />
+      <item index="4" class="java.lang.String" itemvalue="Python.HC24AutomationRun" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.HC24AutomationRun" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest RegistrationTestFirefox.test_1_Registretion_New_mail_process_on_Firefox" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Selenium" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest SwitchReportsTestFirefox.test_2_BatchActions_on_Firefox" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest FarmTrendsSwitchFirefox.test_2_Switch_Farm_Trends" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3340eb3-7bb9-4d73-9528-824f46a4e7f6" name="Default" comment="" />
+      <created>1429941794054</created>
+      <option name="number" value="Default" />
+      <updated>1429941794054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14322917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2044293" sideWeight="0.50075644" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13396624" sideWeight="0.49924356" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31578946" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4198113" sideWeight="0.50073206" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3407155" sideWeight="0.49926794" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11247335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31578946" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SettingsTabNavigation.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SettingsTabNavigation.py</url>
+          <line>409</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SettingsEntry.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SettingsTabNavigation.py</url>
+          <line>398</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SettingsTabNavigation.py</url>
+          <line>299</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FarmTrendsNavigation.py</url>
+          <line>229</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FarmTrendsNavigation.py</url>
+          <line>212</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SettingsEntry.py</url>
+          <line>487</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/DashboardData.py</url>
+          <line>503</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/NotIdentified.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/NotIdentified.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/DashboardData.py</url>
+          <line>553</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenHeatReport.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenHeatReport.py</url>
+          <line>372</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenHeatReport.py</url>
+          <line>348</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/AddDeleteNoteToFarm.py</url>
+          <line>312</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/AddDeleteNoteToFarm.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/AddDeleteNoteToFarm.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/AddDeleteNoteToFarm.py</url>
+          <line>443</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenHeatReport.py</url>
+          <line>201</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenMoreReports.py</url>
+          <line>251</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/HC24Dashboard.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/HC24Dashboard.py</url>
+          <line>270</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/DashboardData.py</url>
+          <line>390</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/HC24Login.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/HC24Login.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwtchBetweenPagesOnAllCowsReport.py</url>
+          <line>481</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwtchBetweenPagesOnAllCowsReport.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwitchBetweenReports.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwitchPagesWithArrows.py</url>
+          <line>271</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/DashboardData.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenMoreReports.py</url>
+          <line>253</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenMoreReports.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwtchBetweenPagesOnAllCowsReport.py</url>
+          <line>470</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwtchBetweenPagesOnAllCowsReport.py</url>
+          <line>428</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwitchGraphsOfCowCard.py</url>
+          <line>841</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwitchGraphsOfCowCard.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/SwitchGraphsOfCowCard.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FindCowFromDataTab.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenHeatReport.py</url>
+          <line>294</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenHeatReport.py</url>
+          <line>170</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/DashboardData.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenHealthReport.py</url>
+          <line>217</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/NextPrevCowCard.py</url>
+          <line>680</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/TermAndPolicyPages.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/TermAndPolicyPages.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/TermAndPolicyPages.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/TermAndPolicyPages.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenHealthReport.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FullCowCardEdit.py</url>
+          <line>329</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FullCowCardEdit.py</url>
+          <line>677</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FullCowCardEdit.py</url>
+          <line>282</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FarmTrendsNavigation.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/BatchActions.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/BatchActions.py</url>
+          <line>758</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/RegistrationTest.py</url>
+          <line>278</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/RegistrationTest.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/RegistrationTest.py</url>
+          <line>343</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="175" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HC24AutomationRun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenMoreReports.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="675" column="26" selection-start-line="675" selection-start-column="26" selection-end-line="675" selection-end-column="26" />
+          <folding>
+            <element signature="e#661#13646#0" expanded="false" />
+            <element signature="e#708#966#0" expanded="false" />
+            <element signature="e#1019#1144#0" expanded="false" />
+            <element signature="e#1188#1651#0" expanded="false" />
+            <element signature="e#1699#2121#0" expanded="false" />
+            <element signature="e#2178#4170#0" expanded="false" />
+            <element signature="e#11896#13539#0" expanded="false" />
+            <element signature="e#13594#13646#0" expanded="false" />
+            <element signature="e#13708#28755#0" expanded="false" />
+            <element signature="e#13755#14150#0" expanded="false" />
+            <element signature="e#14203#14341#0" expanded="false" />
+            <element signature="e#14385#14848#0" expanded="false" />
+            <element signature="e#14896#15318#0" expanded="false" />
+            <element signature="e#15374#19271#0" expanded="false" />
+            <element signature="e#19328#26935#0" expanded="false" />
+            <element signature="e#26993#28646#0" expanded="false" />
+            <element signature="e#28703#28755#0" expanded="false" />
+            <element signature="e#28856#29252#0" expanded="false" />
+            <element signature="e#29305#29430#0" expanded="false" />
+            <element signature="e#29474#29870#0" expanded="false" />
+            <element signature="e#29918#30340#0" expanded="false" />
+            <element signature="e#30392#34303#0" expanded="false" />
+            <element signature="e#41725#43332#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SettingsEntry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="516" column="44" selection-start-line="512" selection-start-column="14" selection-end-line="516" selection-end-column="44" />
+          <folding>
+            <element signature="e#560#818#0" expanded="false" />
+            <element signature="e#871#996#0" expanded="false" />
+            <element signature="e#1968#3928#0" expanded="false" />
+            <element signature="e#6791#8499#0" expanded="false" />
+            <element signature="e#8555#8607#0" expanded="false" />
+            <element signature="e#8659#18939#0" expanded="false" />
+            <element signature="e#8706#9101#0" expanded="false" />
+            <element signature="e#9154#9292#0" expanded="false" />
+            <element signature="e#9336#9799#0" expanded="false" />
+            <element signature="e#9864#10431#0" expanded="false" />
+            <element signature="e#10487#14364#0" expanded="false" />
+            <element signature="e#14428#17166#0" expanded="false" />
+            <element signature="e#17221#18832#0" expanded="false" />
+            <element signature="e#18887#18939#0" expanded="false" />
+            <element signature="e#18988#28932#0" expanded="false" />
+            <element signature="e#19035#19431#0" expanded="false" />
+            <element signature="e#19484#19609#0" expanded="false" />
+            <element signature="e#19653#20049#0" expanded="false" />
+            <element signature="e#20113#20455#0" expanded="false" />
+            <element signature="e#20509#24376#0" expanded="false" />
+            <element signature="e#24436#27169#0" expanded="false" />
+            <element signature="e#27220#28824#0" expanded="false" />
+            <element signature="e#28880#28932#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24AutomationRun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SettingsTabNavigation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="157" column="75" selection-start-line="157" selection-start-column="75" selection-end-line="157" selection-end-column="75" />
+          <folding>
+            <element signature="e#522#12865#0" expanded="false" />
+            <element signature="e#569#827#0" expanded="false" />
+            <element signature="e#880#1005#0" expanded="false" />
+            <element signature="e#1049#1524#0" expanded="false" />
+            <element signature="e#1588#2427#0" expanded="false" />
+            <element signature="e#2485#4478#0" expanded="false" />
+            <element signature="e#4549#10993#0" expanded="false" />
+            <element signature="e#11051#12758#0" expanded="false" />
+            <element signature="e#12813#12865#0" expanded="false" />
+            <element signature="e#12973#13368#0" expanded="false" />
+            <element signature="e#13421#13559#0" expanded="false" />
+            <element signature="e#14130#14697#0" expanded="false" />
+            <element signature="e#26998#27394#0" expanded="false" />
+            <element signature="e#27447#27572#0" expanded="false" />
+            <element signature="e#28076#28418#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="425" column="22" selection-start-line="425" selection-start-column="22" selection-end-line="425" selection-end-column="22" />
+          <folding>
+            <element signature="e#531#789#0" expanded="false" />
+            <element signature="e#842#967#0" expanded="false" />
+            <element signature="e#1011#1486#0" expanded="false" />
+            <element signature="e#1534#1956#0" expanded="false" />
+            <element signature="e#2013#4353#0" expanded="false" />
+            <element signature="e#4413#6379#0" expanded="false" />
+            <element signature="e#6535#14773#0" expanded="false" />
+            <element signature="e#7212#7687#0" expanded="false" />
+            <element signature="e#7735#8157#0" expanded="false" />
+            <element signature="e#8211#12604#0" expanded="false" />
+            <element signature="e#14818#22757#0" expanded="false" />
+            <element signature="e#14865#15261#0" expanded="false" />
+            <element signature="e#15940#16362#0" expanded="false" />
+            <element signature="e#16412#20600#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DashboardData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="493" column="15" selection-start-line="493" selection-start-column="15" selection-end-line="493" selection-end-column="15" />
+          <folding>
+            <element signature="e#558#816#0" expanded="false" />
+            <element signature="e#869#994#0" expanded="false" />
+            <element signature="e#1038#1501#0" expanded="false" />
+            <element signature="e#1549#1971#0" expanded="false" />
+            <element signature="e#2029#4021#0" expanded="false" />
+            <element signature="e#8740#10384#0" expanded="false" />
+            <element signature="e#10440#10492#0" expanded="false" />
+            <element signature="e#10549#22491#0" expanded="false" />
+            <element signature="e#11044#11182#0" expanded="false" />
+            <element signature="e#11226#11689#0" expanded="false" />
+            <element signature="e#11737#12159#0" expanded="false" />
+            <element signature="e#12217#16114#0" expanded="false" />
+            <element signature="e#16183#20673#0" expanded="false" />
+            <element signature="e#20729#22382#0" expanded="false" />
+            <element signature="e#22590#22986#0" expanded="false" />
+            <element signature="e#23039#23164#0" expanded="false" />
+            <element signature="e#23208#23604#0" expanded="false" />
+            <element signature="e#23652#24074#0" expanded="false" />
+            <element signature="e#24126#28037#0" expanded="false" />
+            <element signature="e#32639#34246#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#531#789#0" expanded="false" />
+            <element signature="e#842#967#0" expanded="false" />
+            <element signature="e#1011#1486#0" expanded="false" />
+            <element signature="e#1534#1956#0" expanded="false" />
+            <element signature="e#2013#4353#0" expanded="false" />
+            <element signature="e#4413#6379#0" expanded="false" />
+            <element signature="e#6535#14773#0" expanded="false" />
+            <element signature="e#7212#7687#0" expanded="false" />
+            <element signature="e#7735#8157#0" expanded="false" />
+            <element signature="e#8211#12604#0" expanded="false" />
+            <element signature="e#14818#22757#0" expanded="false" />
+            <element signature="e#14865#15261#0" expanded="false" />
+            <element signature="e#15940#16362#0" expanded="false" />
+            <element signature="e#16412#20600#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#531#789#0" expanded="false" />
+            <element signature="e#842#967#0" expanded="false" />
+            <element signature="e#1011#1486#0" expanded="false" />
+            <element signature="e#1534#1956#0" expanded="false" />
+            <element signature="e#2013#4353#0" expanded="false" />
+            <element signature="e#4413#6379#0" expanded="false" />
+            <element signature="e#6535#14773#0" expanded="false" />
+            <element signature="e#7212#7687#0" expanded="false" />
+            <element signature="e#7735#8157#0" expanded="false" />
+            <element signature="e#8211#12604#0" expanded="false" />
+            <element signature="e#14818#22757#0" expanded="false" />
+            <element signature="e#14865#15261#0" expanded="false" />
+            <element signature="e#15940#16362#0" expanded="false" />
+            <element signature="e#16412#20600#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#531#789#0" expanded="false" />
+            <element signature="e#842#967#0" expanded="false" />
+            <element signature="e#1011#1486#0" expanded="false" />
+            <element signature="e#1534#1956#0" expanded="false" />
+            <element signature="e#2013#4353#0" expanded="false" />
+            <element signature="e#4413#6379#0" expanded="false" />
+            <element signature="e#6535#14773#0" expanded="false" />
+            <element signature="e#7212#7687#0" expanded="false" />
+            <element signature="e#7735#8157#0" expanded="false" />
+            <element signature="e#8211#12604#0" expanded="false" />
+            <element signature="e#14818#22757#0" expanded="false" />
+            <element signature="e#14865#15261#0" expanded="false" />
+            <element signature="e#15940#16362#0" expanded="false" />
+            <element signature="e#16412#20600#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.920635">
+          <caret line="178" column="27" selection-start-line="178" selection-start-column="27" selection-end-line="178" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenPDFReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5805861">
+          <caret line="134" column="20" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323263">
+          <caret line="583" column="0" selection-start-line="583" selection-start-column="0" selection-end-line="583" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddDeleteNoteToFarm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="449" column="278" selection-start-line="449" selection-start-column="252" selection-end-line="449" selection-end-column="278" />
+          <folding>
+            <element signature="e#567#825#0" expanded="false" />
+            <element signature="e#878#1003#0" expanded="false" />
+            <element signature="e#1047#1510#0" expanded="false" />
+            <element signature="e#1574#1916#0" expanded="false" />
+            <element signature="e#1968#3434#0" expanded="false" />
+            <element signature="e#10572#10967#0" expanded="false" />
+            <element signature="e#11020#11158#0" expanded="false" />
+            <element signature="e#11729#12296#0" expanded="false" />
+            <element signature="e#12349#13918#0" expanded="false" />
+            <element signature="e#22884#23285#0" expanded="false" />
+            <element signature="e#23967#24309#0" expanded="false" />
+            <element signature="e#25982#29643#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DashboardData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="94" column="42" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="42" />
+          <folding>
+            <element signature="e#558#816#0" expanded="false" />
+            <element signature="e#869#994#0" expanded="false" />
+            <element signature="e#1038#1501#0" expanded="false" />
+            <element signature="e#1549#1971#0" expanded="false" />
+            <element signature="e#2029#4021#0" expanded="false" />
+            <element signature="e#8740#10384#0" expanded="false" />
+            <element signature="e#10440#10492#0" expanded="false" />
+            <element signature="e#10549#22491#0" expanded="false" />
+            <element signature="e#11044#11182#0" expanded="false" />
+            <element signature="e#11226#11689#0" expanded="false" />
+            <element signature="e#11737#12159#0" expanded="false" />
+            <element signature="e#12217#16114#0" expanded="false" />
+            <element signature="e#16183#20673#0" expanded="false" />
+            <element signature="e#20729#22382#0" expanded="false" />
+            <element signature="e#22590#22986#0" expanded="false" />
+            <element signature="e#23039#23164#0" expanded="false" />
+            <element signature="e#23208#23604#0" expanded="false" />
+            <element signature="e#23652#24074#0" expanded="false" />
+            <element signature="e#24126#28037#0" expanded="false" />
+            <element signature="e#32639#34246#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindCowFromDataTab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="169" column="32" selection-start-line="169" selection-start-column="32" selection-end-line="169" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+            <element signature="e#1192#1655#0" expanded="false" />
+            <element signature="e#1703#2125#0" expanded="false" />
+            <element signature="e#2182#4174#0" expanded="false" />
+            <element signature="e#12776#14419#0" expanded="false" />
+            <element signature="e#14474#14526#0" expanded="false" />
+            <element signature="e#14638#15033#0" expanded="false" />
+            <element signature="e#15086#15224#0" expanded="false" />
+            <element signature="e#15268#15731#0" expanded="false" />
+            <element signature="e#15779#16201#0" expanded="false" />
+            <element signature="e#16257#20154#0" expanded="false" />
+            <element signature="e#28875#30528#0" expanded="false" />
+            <element signature="e#30694#46606#0" expanded="false" />
+            <element signature="e#30741#31137#0" expanded="false" />
+            <element signature="e#31190#31315#0" expanded="false" />
+            <element signature="e#31359#31755#0" expanded="false" />
+            <element signature="e#31803#32225#0" expanded="false" />
+            <element signature="e#32277#36188#0" expanded="false" />
+            <element signature="e#44891#46498#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NotIdentified.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
+          <folding>
+            <element signature="e#571#829#0" expanded="false" />
+            <element signature="e#882#1007#0" expanded="false" />
+            <element signature="e#1578#1920#0" expanded="false" />
+            <element signature="e#1979#3939#0" expanded="false" />
+            <element signature="e#6176#7800#0" expanded="false" />
+            <element signature="e#7856#7908#0" expanded="false" />
+            <element signature="e#7971#17598#0" expanded="false" />
+            <element signature="e#8018#8413#0" expanded="false" />
+            <element signature="e#8466#8604#0" expanded="false" />
+            <element signature="e#8648#9111#0" expanded="false" />
+            <element signature="e#9175#9742#0" expanded="false" />
+            <element signature="e#9800#13646#0" expanded="false" />
+            <element signature="e#15877#17490#0" expanded="false" />
+            <element signature="e#17546#17598#0" expanded="false" />
+            <element signature="e#17665#27178#0" expanded="false" />
+            <element signature="e#17712#18113#0" expanded="false" />
+            <element signature="e#18166#18291#0" expanded="false" />
+            <element signature="e#18335#18743#0" expanded="false" />
+            <element signature="e#18807#19149#0" expanded="false" />
+            <element signature="e#19203#22865#0" expanded="false" />
+            <element signature="e#22923#25546#0" expanded="false" />
+            <element signature="e#25600#27069#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenHealthReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34249085">
+          <caret line="111" column="67" selection-start-line="111" selection-start-column="67" selection-end-line="111" selection-end-column="67" />
+          <folding>
+            <element signature="e#686#944#0" expanded="false" />
+            <element signature="e#997#1122#0" expanded="false" />
+            <element signature="e#1166#1629#0" expanded="false" />
+            <element signature="e#1693#2035#0" expanded="false" />
+            <element signature="e#2083#2505#0" expanded="false" />
+            <element signature="e#9692#11318#0" expanded="false" />
+            <element signature="e#11978#12116#0" expanded="false" />
+            <element signature="e#12160#12623#0" expanded="false" />
+            <element signature="e#12687#13029#0" expanded="false" />
+            <element signature="e#13077#13499#0" expanded="false" />
+            <element signature="e#13558#17374#0" expanded="false" />
+            <element signature="e#17432#22481#0" expanded="false" />
+            <element signature="e#22539#24152#0" expanded="false" />
+            <element signature="e#24320#36699#0" expanded="false" />
+            <element signature="e#24821#24946#0" expanded="false" />
+            <element signature="e#24990#25386#0" expanded="false" />
+            <element signature="e#25450#25792#0" expanded="false" />
+            <element signature="e#25840#26262#0" expanded="false" />
+            <element signature="e#26314#29974#0" expanded="false" />
+            <element signature="e#35121#36590#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenHeatReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0970696">
+          <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+          <folding>
+            <element signature="e#562#820#0" expanded="false" />
+            <element signature="e#873#998#0" expanded="false" />
+            <element signature="e#1569#1911#0" expanded="false" />
+            <element signature="e#6193#7819#0" expanded="false" />
+            <element signature="e#7981#17382#0" expanded="false" />
+            <element signature="e#8028#8423#0" expanded="false" />
+            <element signature="e#8476#8614#0" expanded="false" />
+            <element signature="e#8658#9121#0" expanded="false" />
+            <element signature="e#9185#9527#0" expanded="false" />
+            <element signature="e#9586#13402#0" expanded="false" />
+            <element signature="e#13458#15603#0" expanded="false" />
+            <element signature="e#15661#17274#0" expanded="false" />
+            <element signature="e#17440#26444#0" expanded="false" />
+            <element signature="e#17487#17888#0" expanded="false" />
+            <element signature="e#18110#18506#0" expanded="false" />
+            <element signature="e#18570#18912#0" expanded="false" />
+            <element signature="e#18964#22624#0" expanded="false" />
+            <element signature="e#22677#24814#0" expanded="false" />
+            <element signature="e#24866#26335#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SettingsEntry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2912088">
+          <caret line="106" column="45" selection-start-line="106" selection-start-column="45" selection-end-line="106" selection-end-column="45" />
+          <folding>
+            <element signature="e#560#818#0" expanded="false" />
+            <element signature="e#871#996#0" expanded="false" />
+            <element signature="e#1968#3928#0" expanded="false" />
+            <element signature="e#6791#8499#0" expanded="false" />
+            <element signature="e#8555#8607#0" expanded="false" />
+            <element signature="e#8659#18939#0" expanded="false" />
+            <element signature="e#8706#9101#0" expanded="false" />
+            <element signature="e#9154#9292#0" expanded="false" />
+            <element signature="e#9336#9799#0" expanded="false" />
+            <element signature="e#9864#10431#0" expanded="false" />
+            <element signature="e#10487#14364#0" expanded="false" />
+            <element signature="e#14428#17166#0" expanded="false" />
+            <element signature="e#17221#18832#0" expanded="false" />
+            <element signature="e#18887#18939#0" expanded="false" />
+            <element signature="e#18988#28932#0" expanded="false" />
+            <element signature="e#19035#19431#0" expanded="false" />
+            <element signature="e#19484#19609#0" expanded="false" />
+            <element signature="e#19653#20049#0" expanded="false" />
+            <element signature="e#20113#20455#0" expanded="false" />
+            <element signature="e#20509#24376#0" expanded="false" />
+            <element signature="e#24436#27169#0" expanded="false" />
+            <element signature="e#27220#28824#0" expanded="false" />
+            <element signature="e#28880#28932#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SettingsTabNavigation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5677656">
+          <caret line="525" column="6" selection-start-line="525" selection-start-column="6" selection-end-line="525" selection-end-column="6" />
+          <folding>
+            <element signature="e#522#12865#0" expanded="false" />
+            <element signature="e#569#827#0" expanded="false" />
+            <element signature="e#880#1005#0" expanded="false" />
+            <element signature="e#1049#1524#0" expanded="false" />
+            <element signature="e#1588#2427#0" expanded="false" />
+            <element signature="e#2485#4478#0" expanded="false" />
+            <element signature="e#4549#10993#0" expanded="false" />
+            <element signature="e#11051#12758#0" expanded="false" />
+            <element signature="e#12813#12865#0" expanded="false" />
+            <element signature="e#12973#13368#0" expanded="false" />
+            <element signature="e#13421#13559#0" expanded="false" />
+            <element signature="e#14130#14697#0" expanded="false" />
+            <element signature="e#26998#27394#0" expanded="false" />
+            <element signature="e#27447#27572#0" expanded="false" />
+            <element signature="e#28076#28418#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwitchGraphsOfCowCard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8992674">
+          <caret line="125" column="51" selection-start-line="125" selection-start-column="51" selection-end-line="125" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+            <element signature="e#687#945#0" expanded="false" />
+            <element signature="e#998#1123#0" expanded="false" />
+            <element signature="e#1167#1630#0" expanded="false" />
+            <element signature="e#1678#2100#0" expanded="false" />
+            <element signature="e#2157#4149#0" expanded="false" />
+            <element signature="e#22294#23937#0" expanded="false" />
+            <element signature="e#23992#24044#0" expanded="false" />
+            <element signature="e#24159#24554#0" expanded="false" />
+            <element signature="e#24607#24745#0" expanded="false" />
+            <element signature="e#24789#25252#0" expanded="false" />
+            <element signature="e#25300#25722#0" expanded="false" />
+            <element signature="e#25778#29675#0" expanded="false" />
+            <element signature="e#29730#47759#0" expanded="false" />
+            <element signature="e#47815#49468#0" expanded="false" />
+            <element signature="e#49525#49577#0" expanded="false" />
+            <element signature="e#49684#50080#0" expanded="false" />
+            <element signature="e#50133#50258#0" expanded="false" />
+            <element signature="e#50302#50698#0" expanded="false" />
+            <element signature="e#50746#51168#0" expanded="false" />
+            <element signature="e#51220#55131#0" expanded="false" />
+            <element signature="e#73256#74863#0" expanded="false" />
+            <element signature="e#74919#74971#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwitchPagesWithArrows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+          <folding>
+            <element signature="e#715#973#0" expanded="false" />
+            <element signature="e#1026#1151#0" expanded="false" />
+            <element signature="e#1195#1658#0" expanded="false" />
+            <element signature="e#1706#2128#0" expanded="false" />
+            <element signature="e#2185#4177#0" expanded="false" />
+            <element signature="e#11404#13047#0" expanded="false" />
+            <element signature="e#13269#13664#0" expanded="false" />
+            <element signature="e#13717#13855#0" expanded="false" />
+            <element signature="e#13899#14362#0" expanded="false" />
+            <element signature="e#14410#14832#0" expanded="false" />
+            <element signature="e#14888#18785#0" expanded="false" />
+            <element signature="e#42191#42243#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwtchBetweenPagesOnAllCowsReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73773587">
+          <caret line="374" column="26" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
+          <folding>
+            <element signature="e#847#1105#0" expanded="false" />
+            <element signature="e#1158#1283#0" expanded="false" />
+            <element signature="e#1327#1790#0" expanded="false" />
+            <element signature="e#1838#2260#0" expanded="false" />
+            <element signature="e#2317#4309#0" expanded="false" />
+            <element signature="e#4385#10877#0" expanded="false" />
+            <element signature="e#10935#12578#0" expanded="false" />
+            <element signature="e#12633#12685#0" expanded="false" />
+            <element signature="e#13260#13398#0" expanded="false" />
+            <element signature="e#13442#13905#0" expanded="false" />
+            <element signature="e#13953#14375#0" expanded="false" />
+            <element signature="e#14431#18328#0" expanded="false" />
+            <element signature="e#25298#26951#0" expanded="false" />
+            <element signature="e#27008#27060#0" expanded="false" />
+            <element signature="e#27179#27575#0" expanded="false" />
+            <element signature="e#27628#27753#0" expanded="false" />
+            <element signature="e#27797#28193#0" expanded="false" />
+            <element signature="e#28241#28663#0" expanded="false" />
+            <element signature="e#28715#32626#0" expanded="false" />
+            <element signature="e#39229#40836#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CowCardSwitchBetweenGraphs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5773585">
+          <caret line="708" column="31" selection-start-line="708" selection-start-column="31" selection-end-line="708" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextPrevCowCard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6584907">
+          <caret line="318" column="16" selection-start-line="318" selection-start-column="16" selection-end-line="318" selection-end-column="16" />
+          <folding>
+            <element signature="e#709#967#0" expanded="false" />
+            <element signature="e#1020#1145#0" expanded="false" />
+            <element signature="e#1189#1652#0" expanded="false" />
+            <element signature="e#1700#2122#0" expanded="false" />
+            <element signature="e#2179#4171#0" expanded="false" />
+            <element signature="e#4235#18036#0" expanded="false" />
+            <element signature="e#18094#19737#0" expanded="false" />
+            <element signature="e#19792#19844#0" expanded="false" />
+            <element signature="e#19953#20348#0" expanded="false" />
+            <element signature="e#20401#20539#0" expanded="false" />
+            <element signature="e#20583#21046#0" expanded="false" />
+            <element signature="e#21094#21516#0" expanded="false" />
+            <element signature="e#21572#25469#0" expanded="false" />
+            <element signature="e#39453#41106#0" expanded="false" />
+            <element signature="e#41316#41712#0" expanded="false" />
+            <element signature="e#41765#41890#0" expanded="false" />
+            <element signature="e#41934#42330#0" expanded="false" />
+            <element signature="e#42378#42800#0" expanded="false" />
+            <element signature="e#42852#46763#0" expanded="false" />
+            <element signature="e#60704#62311#0" expanded="false" />
+            <element signature="e#62367#62419#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TermAndPolicyPages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="360" column="41" selection-start-line="360" selection-start-column="41" selection-end-line="360" selection-end-column="41" />
+          <folding>
+            <element signature="e#705#963#0" expanded="false" />
+            <element signature="e#1016#1141#0" expanded="false" />
+            <element signature="e#1185#1648#0" expanded="false" />
+            <element signature="e#1696#2118#0" expanded="false" />
+            <element signature="e#2176#8027#0" expanded="false" />
+            <element signature="e#8244#8639#0" expanded="false" />
+            <element signature="e#8692#8830#0" expanded="false" />
+            <element signature="e#8874#9337#0" expanded="false" />
+            <element signature="e#9385#9807#0" expanded="false" />
+            <element signature="e#9863#15713#0" expanded="false" />
+            <element signature="e#15920#16316#0" expanded="false" />
+            <element signature="e#16369#16494#0" expanded="false" />
+            <element signature="e#16538#16934#0" expanded="false" />
+            <element signature="e#16982#17404#0" expanded="false" />
+            <element signature="e#17457#23900#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="45" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
+          <folding>
+            <element signature="e#531#789#0" expanded="false" />
+            <element signature="e#842#967#0" expanded="false" />
+            <element signature="e#1011#1486#0" expanded="false" />
+            <element signature="e#1534#1956#0" expanded="false" />
+            <element signature="e#2013#4353#0" expanded="false" />
+            <element signature="e#4413#6379#0" expanded="false" />
+            <element signature="e#6535#14773#0" expanded="false" />
+            <element signature="e#7212#7687#0" expanded="false" />
+            <element signature="e#7735#8157#0" expanded="false" />
+            <element signature="e#8211#12604#0" expanded="false" />
+            <element signature="e#14818#22757#0" expanded="false" />
+            <element signature="e#14865#15261#0" expanded="false" />
+            <element signature="e#15940#16362#0" expanded="false" />
+            <element signature="e#16412#20600#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24Dashboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#657#915#0" expanded="false" />
+            <element signature="e#969#1094#0" expanded="false" />
+            <element signature="e#4931#5888#0" expanded="false" />
+            <element signature="e#6093#6488#0" expanded="false" />
+            <element signature="e#6542#6667#0" expanded="false" />
+            <element signature="e#10158#11114#0" expanded="false" />
+            <element signature="e#11319#11715#0" expanded="false" />
+            <element signature="e#11769#11894#0" expanded="false" />
+            <element signature="e#11945#15322#0" expanded="false" />
+            <element signature="e#15373#16325#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LanguageChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="715" column="8" selection-start-line="715" selection-start-column="8" selection-end-line="715" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FullCowCardEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="360" column="62" selection-start-line="357" selection-start-column="8" selection-end-line="360" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+            <element signature="e#826#1084#0" expanded="false" />
+            <element signature="e#1137#1262#0" expanded="false" />
+            <element signature="e#1306#1769#0" expanded="false" />
+            <element signature="e#1817#2239#0" expanded="false" />
+            <element signature="e#2284#3754#0" expanded="false" />
+            <element signature="e#3840#10127#0" expanded="false" />
+            <element signature="e#10203#12589#0" expanded="false" />
+            <element signature="e#12637#16118#0" expanded="false" />
+            <element signature="e#16175#18167#0" expanded="false" />
+            <element signature="e#18223#22812#0" expanded="false" />
+            <element signature="e#27887#29530#0" expanded="false" />
+            <element signature="e#29585#29637#0" expanded="false" />
+            <element signature="e#29699#60464#0" expanded="false" />
+            <element signature="e#29746#30004#0" expanded="false" />
+            <element signature="e#30057#30182#0" expanded="false" />
+            <element signature="e#30226#30689#0" expanded="false" />
+            <element signature="e#30737#31159#0" expanded="false" />
+            <element signature="e#31204#32674#0" expanded="false" />
+            <element signature="e#32760#39047#0" expanded="false" />
+            <element signature="e#39123#41509#0" expanded="false" />
+            <element signature="e#41557#45038#0" expanded="false" />
+            <element signature="e#45095#48992#0" expanded="false" />
+            <element signature="e#49047#53633#0" expanded="false" />
+            <element signature="e#53688#58646#0" expanded="false" />
+            <element signature="e#58702#60355#0" expanded="false" />
+            <element signature="e#60518#91211#0" expanded="false" />
+            <element signature="e#60565#60823#0" expanded="false" />
+            <element signature="e#60876#61001#0" expanded="false" />
+            <element signature="e#61045#61508#0" expanded="false" />
+            <element signature="e#61556#61978#0" expanded="false" />
+            <element signature="e#62023#63493#0" expanded="false" />
+            <element signature="e#63579#69866#0" expanded="false" />
+            <element signature="e#69942#72328#0" expanded="false" />
+            <element signature="e#72376#75857#0" expanded="false" />
+            <element signature="e#75910#79821#0" expanded="false" />
+            <element signature="e#79872#84446#0" expanded="false" />
+            <element signature="e#84497#89443#0" expanded="false" />
+            <element signature="e#89496#91103#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FarmTrendsNavigation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2924312">
+          <caret line="421" column="22" selection-start-line="421" selection-start-column="22" selection-end-line="421" selection-end-column="22" />
+          <folding>
+            <element signature="e#517#10726#0" expanded="false" />
+            <element signature="e#564#822#0" expanded="false" />
+            <element signature="e#875#1000#0" expanded="false" />
+            <element signature="e#1044#1507#0" expanded="false" />
+            <element signature="e#1555#1977#0" expanded="false" />
+            <element signature="e#2036#4028#0" expanded="false" />
+            <element signature="e#4079#8916#0" expanded="false" />
+            <element signature="e#8975#10618#0" expanded="false" />
+            <element signature="e#10674#10726#0" expanded="false" />
+            <element signature="e#10782#23154#0" expanded="false" />
+            <element signature="e#10829#11224#0" expanded="false" />
+            <element signature="e#11277#11415#0" expanded="false" />
+            <element signature="e#11459#11922#0" expanded="false" />
+            <element signature="e#11986#12553#0" expanded="false" />
+            <element signature="e#12611#16510#0" expanded="false" />
+            <element signature="e#16560#21397#0" expanded="false" />
+            <element signature="e#21452#23046#0" expanded="false" />
+            <element signature="e#23102#23154#0" expanded="false" />
+            <element signature="e#23207#35075#0" expanded="false" />
+            <element signature="e#23254#23650#0" expanded="false" />
+            <element signature="e#23703#23828#0" expanded="false" />
+            <element signature="e#23872#24280#0" expanded="false" />
+            <element signature="e#24344#24686#0" expanded="false" />
+            <element signature="e#24740#28595#0" expanded="false" />
+            <element signature="e#28645#33482#0" expanded="false" />
+            <element signature="e#33533#34966#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BatchActions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="308" column="45" selection-start-line="308" selection-start-column="45" selection-end-line="308" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+            <element signature="e#1085#1210#0" expanded="false" />
+            <element signature="e#1254#1717#0" expanded="false" />
+            <element signature="e#1765#2187#0" expanded="false" />
+            <element signature="e#2232#3702#0" expanded="false" />
+            <element signature="e#3777#7123#0" expanded="false" />
+            <element signature="e#7209#9595#0" expanded="false" />
+            <element signature="e#9643#13124#0" expanded="false" />
+            <element signature="e#13181#15173#0" expanded="false" />
+            <element signature="e#19815#25621#0" expanded="false" />
+            <element signature="e#25677#30446#0" expanded="false" />
+            <element signature="e#30508#32151#0" expanded="false" />
+            <element signature="e#32206#32258#0" expanded="false" />
+            <element signature="e#32318#60023#0" expanded="false" />
+            <element signature="e#32365#32760#0" expanded="false" />
+            <element signature="e#32813#32951#0" expanded="false" />
+            <element signature="e#32995#33458#0" expanded="false" />
+            <element signature="e#33506#33928#0" expanded="false" />
+            <element signature="e#33973#35471#0" expanded="false" />
+            <element signature="e#35546#38892#0" expanded="false" />
+            <element signature="e#38968#41354#0" expanded="false" />
+            <element signature="e#41402#44910#0" expanded="false" />
+            <element signature="e#44966#48863#0" expanded="false" />
+            <element signature="e#53436#58205#0" expanded="false" />
+            <element signature="e#58261#59914#0" expanded="false" />
+            <element signature="e#60122#60518#0" expanded="false" />
+            <element signature="e#60571#60696#0" expanded="false" />
+            <element signature="e#60740#61136#0" expanded="false" />
+            <element signature="e#61184#61606#0" expanded="false" />
+            <element signature="e#61653#63123#0" expanded="false" />
+            <element signature="e#63198#66544#0" expanded="false" />
+            <element signature="e#66630#69016#0" expanded="false" />
+            <element signature="e#69064#72545#0" expanded="false" />
+            <element signature="e#72598#76509#0" expanded="false" />
+            <element signature="e#76561#81119#0" expanded="false" />
+            <element signature="e#81170#85992#0" expanded="false" />
+            <element signature="e#86045#87652#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwitchBetweenReports.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="96" column="93" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="93" />
+          <folding>
+            <element signature="e#1017#1142#0" expanded="false" />
+            <element signature="e#1186#1649#0" expanded="false" />
+            <element signature="e#1697#2119#0" expanded="false" />
+            <element signature="e#29269#30912#0" expanded="false" />
+            <element signature="e#30967#31019#0" expanded="false" />
+            <element signature="e#31079#63833#0" expanded="false" />
+            <element signature="e#31126#31521#0" expanded="false" />
+            <element signature="e#31574#31712#0" expanded="false" />
+            <element signature="e#31756#32219#0" expanded="false" />
+            <element signature="e#32267#32689#0" expanded="false" />
+            <element signature="e#32745#36642#0" expanded="false" />
+            <element signature="e#36704#62016#0" expanded="false" />
+            <element signature="e#62071#63724#0" expanded="false" />
+            <element signature="e#63781#63833#0" expanded="false" />
+            <element signature="e#63885#96171#0" expanded="false" />
+            <element signature="e#63932#64328#0" expanded="false" />
+            <element signature="e#64381#64506#0" expanded="false" />
+            <element signature="e#64550#64946#0" expanded="false" />
+            <element signature="e#65468#69379#0" expanded="false" />
+            <element signature="e#94456#96063#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="239" column="8" selection-start-line="239" selection-start-column="8" selection-end-line="239" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddNewCowCard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="309" column="39" selection-start-line="309" selection-start-column="39" selection-end-line="309" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegistrationTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+            <element signature="e#934#1081#0" expanded="false" />
+            <element signature="e#1134#1259#0" expanded="false" />
+            <element signature="e#1303#1766#0" expanded="false" />
+            <element signature="e#1814#2236#0" expanded="false" />
+            <element signature="e#15221#15273#0" expanded="false" />
+            <element signature="e#15379#15663#0" expanded="false" />
+            <element signature="e#15718#15856#0" expanded="false" />
+            <element signature="e#15900#16363#0" expanded="false" />
+            <element signature="e#16411#16833#0" expanded="false" />
+            <element signature="e#30117#30169#0" expanded="false" />
+            <element signature="e#30267#30552#0" expanded="false" />
+            <element signature="e#30605#30730#0" expanded="false" />
+            <element signature="e#30774#31170#0" expanded="false" />
+            <element signature="e#31218#31640#0" expanded="false" />
+            <element signature="e#31709#44555#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenMoreReports.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="675" column="26" selection-start-line="675" selection-start-column="26" selection-end-line="675" selection-end-column="26" />
+          <folding>
+            <element signature="e#661#13646#0" expanded="false" />
+            <element signature="e#708#966#0" expanded="false" />
+            <element signature="e#1019#1144#0" expanded="false" />
+            <element signature="e#1188#1651#0" expanded="false" />
+            <element signature="e#1699#2121#0" expanded="false" />
+            <element signature="e#2178#4170#0" expanded="false" />
+            <element signature="e#11896#13539#0" expanded="false" />
+            <element signature="e#13594#13646#0" expanded="false" />
+            <element signature="e#13708#28755#0" expanded="false" />
+            <element signature="e#13755#14150#0" expanded="false" />
+            <element signature="e#14203#14341#0" expanded="false" />
+            <element signature="e#14385#14848#0" expanded="false" />
+            <element signature="e#14896#15318#0" expanded="false" />
+            <element signature="e#15374#19271#0" expanded="false" />
+            <element signature="e#19328#26935#0" expanded="false" />
+            <element signature="e#26993#28646#0" expanded="false" />
+            <element signature="e#28703#28755#0" expanded="false" />
+            <element signature="e#28856#29252#0" expanded="false" />
+            <element signature="e#29305#29430#0" expanded="false" />
+            <element signature="e#29474#29870#0" expanded="false" />
+            <element signature="e#29918#30340#0" expanded="false" />
+            <element signature="e#30392#34303#0" expanded="false" />
+            <element signature="e#41725#43332#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24AutomationRun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6462141">
+          <caret line="238" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
