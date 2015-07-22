@@ -240,12 +240,21 @@ new_user_registration_Firefox=unittest.TestLoader().loadTestsFromTestCase(Regist
 
 
 
-
+general_tests=unittest.TestSuite([login_logout_IE])
 #general_tests=unittest.TestSuite([login_logout_Firefox,login_logout_Chrome,login_logout_IE,dashboard_data_Firefox,dashboard_data_Chrome,dashboard_data_IE,settings_Firefox,settings_Chrome,settings_IE,devices_alerts_account_switch_Firefox,devices_alerts_account_switch_Chrome,devices_alerts_account_switch_IE,
 #                                 not_id_report_Firefox,not_id_report_Chrome,not_id_report_IE,farm_trends_switch_Firefox,farm_trends_switch_Chrome,farm_trends_switch_IE,cows_heat_report_Firefox,cows_heat_report_Chrome,cows_heat_report_IE,
 #                                 add_note_to_farm_Firefox,add_note_to_farm_Chrome,add_note_to_farm_IE,open_more_reports_Firefox,open_more_reports_Chrome,open_more_reports_IE])
+#
+#general_tests1=unittest.TestSuite([switch_reports_Firefox,switch_reports_Chrome,switch_reports_IE,switch_pages_Firefox,switch_pages_Chrome,switch_pages_IE,switch_Arrows_Firefox,switch_Arrows_Chrome,switch_Arrows_IE,
+#                                  open_cow_card_Firefox,open_cow_card_Chrome,open_cow_card_IE,graph_days_switch_Firefox,graph_days_switch_Chrome,graph_days_switch_IE,open_Health_report_Firefox,open_Health_report_Chrome,
+#                                  open_Health_report_IE,graphs_switch_on_cow_card_Firefox,graphs_switch_on_cow_card_Chrome,graphs_switch_on_cow_card_IE,next_prev_cow_card_Firefox,next_prev_cow_card_Chrome,next_prev_cow_card_IE,
+#                                  add_delete_cow_card_Firefox,add_delete_cow_card_Chrome,add_delete_cow_card_IE,privacy_terms_pages_Firefox,privacy_terms_pages_Chrome,privacy_terms_pages_IE,language_change_Firefox,language_change_Chrome,
+#                                  language_change_IE,full_new_cow_card_Firefox,full_new_cow_card_Chrome,full_new_cow_card_IE])
 
-general_tests=unittest.TestSuite([open_more_reports_F])
+#general_tests=unittest.TestSuite([switch_reports_Firefox,switch_reports_Chrome,switch_reports_IE])
+#general_tests=unittest.TestSuite([add_delete_cow_card_Firefox,add_delete_cow_card_Chrome,add_delete_cow_card_IE])
+#general_tests=unittest.TestSuite([full_new_cow_card_Chrome])
+
 
 #open the report file
 outfile=open(dir+"\LoginLogoutReport2.html","wb")
@@ -255,3 +264,4 @@ runner=HTMLTestRunner.HTMLTestRunner(stream=outfile,title="Firefox/Chrome/IE Por
 
 #run the suite using HTMLTestRunner
 runner.run(general_tests)
+#runner.run(general_tests1)

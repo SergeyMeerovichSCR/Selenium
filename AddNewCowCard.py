@@ -10,6 +10,8 @@ from selenium.common.exceptions import ElementNotVisibleException
 from selenium.common.exceptions import StaleElementReferenceException
 import time
 import os,sys
+#module for random cow numbers
+import random
 #pytest use for order testcase running order
 #import pytest
 from datetime import datetime
@@ -18,6 +20,7 @@ __author__ = 'sergey.meerovich'
 
 class AddNewCowCardTestFirefox(unittest.TestCase):
     @classmethod
+
     def setUpClass(self):
         #create a new Firefox session
         self.driver=webdriver.Firefox()
@@ -244,6 +247,18 @@ class AddNewCowCardTestFirefox(unittest.TestCase):
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
         print 'Test Login_process_on_Firefox finish at :'+date_time_formatted
     def test_2_AddNewCowCard_on_Firefox(self):
+        #Decide a values for Create A new Cow Cards
+        global cow1
+        cow1=random.randint(500000,530000);
+        global cow1str
+        cow1str=str(cow1)
+        #print "Create a cow card :"+cow1str
+        global cow2
+        cow2=random.randint(530001,600000)
+        global cow2str
+        cow2str=str(cow2)
+        print "Create a cow card :"+cow2str
+
         #open Data tab
         date_time=datetime.now()
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
@@ -275,9 +290,9 @@ class AddNewCowCardTestFirefox(unittest.TestCase):
              self.fail("The Data tab not loaded ")
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
-                  #Create A new Cow Cards
-        new_cow_book_numbers=['500000','600000']
-        new_cow_burn_numbers=['500000','600000']
+
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card
@@ -303,6 +318,7 @@ class AddNewCowCardTestFirefox(unittest.TestCase):
         date_time=datetime.now()
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
         print 'Test of Create new Cow Card_on_Firefox finish at :'+date_time_formatted
+
     def test_3_DeleteCowCard_on_Firefox(self):
         #open Data tab
         date_time=datetime.now()
@@ -336,8 +352,8 @@ class AddNewCowCardTestFirefox(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['500000','600000']
-        new_cow_burn_numbers=['500000','600000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card
@@ -679,6 +695,17 @@ class AddNewCowCardTestChrome(unittest.TestCase):
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
         print 'Test Login_process_on_Chrome finish at :'+date_time_formatted
     def test_2_AddNewCowCard_on_Chrome(self):
+        #Decide a values for Create A new Cow Cards
+        global cow1
+        cow1=random.randint(500000,530000);
+        global cow1str
+        cow1str=str(cow1)
+        #print "Create a cow card :"+cow1str
+        global cow2
+        cow2=random.randint(530001,600000)
+        global cow2str
+        cow2str=str(cow2)
+        print "Create a cow card :"+cow2str
         #open Data tab
         date_time=datetime.now()
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
@@ -712,8 +739,8 @@ class AddNewCowCardTestChrome(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card
@@ -771,8 +798,8 @@ class AddNewCowCardTestChrome(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card
@@ -1111,6 +1138,18 @@ class AddNewCowCardTestIE(unittest.TestCase):
         print 'Test Login_process_on_IE finish at :'+date_time_formatted
 
     def test_2_AddNewCowCard_on_IE(self):
+        #Decide a values for Create A new Cow Cards
+        global cow1
+        cow1=random.randint(500000,530000);
+        global cow1str
+        cow1str=str(cow1)
+        #print "Create a cow card :"+cow1str
+        global cow2
+        cow2=random.randint(530001,600000)
+        global cow2str
+        cow2str=str(cow2)
+        print "Create a cow card :"+cow2str
+
         #open Data tab
         date_time=datetime.now()
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
@@ -1144,8 +1183,9 @@ class AddNewCowCardTestIE(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
+                  #Create A new Cow Cards
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card
@@ -1203,8 +1243,9 @@ class AddNewCowCardTestIE(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
+                 #Create A new Cow Cards
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card

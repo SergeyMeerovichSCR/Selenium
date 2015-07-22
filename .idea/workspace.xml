@@ -55,9 +55,9 @@
     <SUITE FILE_PATH="coverage/Selenium$useHTMLReport.coverage" NAME="useHTMLReport Coverage Results" MODIFIED="1429987076175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittests_in_FullCowCardEditTestFirefox.coverage" NAME="Unittests in FullCowCardEditTestFirefox Coverage Results" MODIFIED="1435122104662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittest_AddDeleteNoteToFarmChrome_test_1_Login_process_on_Chrome.coverage" NAME="Unittest AddDeleteNoteToFarmChrome.test_1_Login_process_on_Chrome Coverage Results" MODIFIED="1433070803009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTestIE.coverage" NAME="Unittests in LoginTestIE Coverage Results" MODIFIED="1431203014156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittests_in_SettingsTestChrome.coverage" NAME="Unittests in SettingsTestChrome Coverage Results" MODIFIED="1432557795372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittests_in_SettingsTabSwitchTestChrome.coverage" NAME="Unittests in SettingsTabSwitchTestChrome Coverage Results" MODIFIED="1432647706254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTestIE.coverage" NAME="Unittests in LoginTestIE Coverage Results" MODIFIED="1437567972280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTest__2_.coverage" NAME="Unittests in LoginTest (2) Coverage Results" MODIFIED="1430833592700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$DashbordData1.coverage" NAME="DashbordData1 Coverage Results" MODIFIED="1431876743961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/Selenium$Unittests_in_DashboardDataTestChrome.coverage" NAME="Unittests in DashboardDataTestChrome Coverage Results" MODIFIED="1433081133394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -66,7 +66,7 @@
     <SUITE FILE_PATH="coverage/Selenium$desktop.coverage" NAME="desktop Coverage Results" MODIFIED="1430505285555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../desktopApp" />
     <SUITE FILE_PATH="coverage/Selenium$Unittest_LoginTesFirefox_test_Login_process_on_Firefox__1_.coverage" NAME="Unittest LoginTesFirefox.test_Login_process_on_Firefox (1) Coverage Results" MODIFIED="1431186432653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittest_SettingsTabSwitchTestFirefox_test_2_Switch_tabs_on_Settings_page_on_Firefox.coverage" NAME="Unittest SettingsTabSwitchTestFirefox.test_2_Switch_tabs_on_Settings_page_on_Firefox Coverage Results" MODIFIED="1432565264494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Selenium$HC24AutomationRun.coverage" NAME="HC24AutomationRun Coverage Results" MODIFIED="1437467510434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium$HC24AutomationRun.coverage" NAME="HC24AutomationRun Coverage Results" MODIFIED="1437570584053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittest_NotIdentifiednavigationIE_test_2_Not_Identified_Report_IE.coverage" NAME="Unittest NotIdentifiednavigationIE.test_2_Not_Identified_Report_IE Coverage Results" MODIFIED="1432984511553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittests_in_LoginTest__3_.coverage" NAME="Unittests in LoginTest (3) Coverage Results" MODIFIED="1430889789793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium$Unittest_AddNoteToFarmFirefox_test_1_Login_process_on_Firefox.coverage" NAME="Unittest AddNoteToFarmFirefox.test_1_Login_process_on_Firefox Coverage Results" MODIFIED="1433054018203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -87,6 +87,9 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
   <component name="DatabaseView">
     <option name="FLATTEN" value="false" />
     <option name="GROUP_BY_TYPE" value="true" />
@@ -99,12 +102,177 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HC24AutomationRun.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HC24AutomationRun.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HC24AutomationRun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6462141">
-              <caret line="238" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3799" max-vertical-offset="4641">
+              <caret line="251" column="57" selection-start-line="251" selection-start-column="57" selection-end-line="251" selection-end-column="57" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HC24Login.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HC24Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.4962518" vertical-offset="103" max-vertical-offset="1921">
+              <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+              <folding>
+                <element signature="e#531#789#0" expanded="false" />
+                <element signature="e#842#967#0" expanded="false" />
+                <element signature="e#1011#1486#0" expanded="false" />
+                <element signature="e#1534#1956#0" expanded="false" />
+                <element signature="e#2013#4353#0" expanded="false" />
+                <element signature="e#4413#6379#0" expanded="false" />
+                <element signature="e#6535#14773#0" expanded="false" />
+                <element signature="e#7212#7687#0" expanded="false" />
+                <element signature="e#7735#8157#0" expanded="false" />
+                <element signature="e#8211#12604#0" expanded="false" />
+                <element signature="e#15940#16362#0" expanded="false" />
+                <element signature="e#16412#20600#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistrationTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RegistrationTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="5202">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding>
+                <element signature="e#934#1081#0" expanded="false" />
+                <element signature="e#1134#1259#0" expanded="false" />
+                <element signature="e#1303#1766#0" expanded="false" />
+                <element signature="e#1814#2236#0" expanded="false" />
+                <element signature="e#2311#15165#0" expanded="false" />
+                <element signature="e#15221#15273#0" expanded="false" />
+                <element signature="e#15379#15663#0" expanded="false" />
+                <element signature="e#15718#15856#0" expanded="false" />
+                <element signature="e#15900#16363#0" expanded="false" />
+                <element signature="e#16411#16833#0" expanded="false" />
+                <element signature="e#30117#30169#0" expanded="false" />
+                <element signature="e#30267#30552#0" expanded="false" />
+                <element signature="e#30605#30730#0" expanded="false" />
+                <element signature="e#30774#31170#0" expanded="false" />
+                <element signature="e#31218#31640#0" expanded="false" />
+                <element signature="e#31709#44555#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FullCowCardEdit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FullCowCardEdit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2234" max-vertical-offset="3536">
+              <caret line="867" column="46" selection-start-line="867" selection-start-column="46" selection-end-line="867" selection-end-column="46" />
+              <folding>
+                <element signature="e#871#1129#0" expanded="false" />
+                <element signature="e#1182#1307#0" expanded="false" />
+                <element signature="e#1351#1814#0" expanded="false" />
+                <element signature="e#1862#2284#0" expanded="false" />
+                <element signature="e#2329#3799#0" expanded="false" />
+                <element signature="e#3885#10172#0" expanded="false" />
+                <element signature="e#10248#12634#0" expanded="false" />
+                <element signature="e#12682#16163#0" expanded="false" />
+                <element signature="e#16220#18212#0" expanded="false" />
+                <element signature="e#18270#23217#0" expanded="false" />
+                <element signature="e#23273#28230#0" expanded="false" />
+                <element signature="e#28288#29931#0" expanded="false" />
+                <element signature="e#29986#30038#0" expanded="false" />
+                <element signature="e#30147#30405#0" expanded="false" />
+                <element signature="e#30458#30583#0" expanded="false" />
+                <element signature="e#30627#31090#0" expanded="false" />
+                <element signature="e#31138#31560#0" expanded="false" />
+                <element signature="e#31605#33075#0" expanded="false" />
+                <element signature="e#33161#39448#0" expanded="false" />
+                <element signature="e#39524#41910#0" expanded="false" />
+                <element signature="e#41958#45439#0" expanded="false" />
+                <element signature="e#45496#49393#0" expanded="false" />
+                <element signature="e#59413#61066#0" expanded="false" />
+                <element signature="e#61229#92281#0" expanded="false" />
+                <element signature="e#61276#61534#0" expanded="false" />
+                <element signature="e#61587#61712#0" expanded="false" />
+                <element signature="e#61756#62219#0" expanded="false" />
+                <element signature="e#62267#62689#0" expanded="false" />
+                <element signature="e#62734#64204#0" expanded="false" />
+                <element signature="e#64290#70577#0" expanded="false" />
+                <element signature="e#70653#73039#0" expanded="false" />
+                <element signature="e#73087#76568#0" expanded="false" />
+                <element signature="e#76621#80532#0" expanded="false" />
+                <element signature="e#80588#85520#0" expanded="false" />
+                <element signature="e#85571#90513#0" expanded="false" />
+                <element signature="e#90566#92173#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LanguageChange.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LanguageChange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1044" max-vertical-offset="8670">
+              <caret line="601" column="0" selection-start-line="601" selection-start-column="0" selection-end-line="601" selection-end-column="0" />
+              <folding>
+                <element signature="e#1597#2436#0" expanded="false" />
+                <element signature="e#2484#2906#0" expanded="false" />
+                <element signature="e#2964#4957#0" expanded="false" />
+                <element signature="e#38459#40726#0" expanded="false" />
+                <element signature="e#40892#81788#0" expanded="false" />
+                <element signature="e#40939#41334#0" expanded="false" />
+                <element signature="e#41387#41525#0" expanded="false" />
+                <element signature="e#41569#42032#0" expanded="false" />
+                <element signature="e#42096#42663#0" expanded="false" />
+                <element signature="e#42721#46571#0" expanded="false" />
+                <element signature="e#46629#80013#0" expanded="false" />
+                <element signature="e#80069#81681#0" expanded="false" />
+                <element signature="e#81843#122422#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddNewCowCard.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddNewCowCard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="6732">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#1132#1257#0" expanded="false" />
+                <element signature="e#1301#1764#0" expanded="false" />
+                <element signature="e#1812#2234#0" expanded="false" />
+                <element signature="e#2279#3773#0" expanded="false" />
+                <element signature="e#3835#6787#0" expanded="false" />
+                <element signature="e#6863#9249#0" expanded="false" />
+                <element signature="e#9297#12778#0" expanded="false" />
+                <element signature="e#12835#14827#0" expanded="false" />
+                <element signature="e#19746#24511#0" expanded="false" />
+                <element signature="e#24573#26216#0" expanded="false" />
+                <element signature="e#26430#26825#0" expanded="false" />
+                <element signature="e#26878#27016#0" expanded="false" />
+                <element signature="e#27060#27523#0" expanded="false" />
+                <element signature="e#27571#27993#0" expanded="false" />
+                <element signature="e#28038#29536#0" expanded="false" />
+                <element signature="e#29598#32581#0" expanded="false" />
+                <element signature="e#32657#35043#0" expanded="false" />
+                <element signature="e#35091#38599#0" expanded="false" />
+                <element signature="e#38655#42552#0" expanded="false" />
+                <element signature="e#47487#52252#0" expanded="false" />
+                <element signature="e#52308#53961#0" expanded="false" />
+                <element signature="e#54018#54070#0" expanded="false" />
+                <element signature="e#54169#54565#0" expanded="false" />
+                <element signature="e#54618#54743#0" expanded="false" />
+                <element signature="e#54787#55183#0" expanded="false" />
+                <element signature="e#55231#55653#0" expanded="false" />
+                <element signature="e#55700#57170#0" expanded="false" />
+                <element signature="e#57232#60184#0" expanded="false" />
+                <element signature="e#60260#62646#0" expanded="false" />
+                <element signature="e#62694#66175#0" expanded="false" />
+                <element signature="e#66228#70139#0" expanded="false" />
+                <element signature="e#79967#81574#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,14 +313,14 @@
         <option value="$PROJECT_DIR$/FindCowFromDataTab.py" />
         <option value="$PROJECT_DIR$/TermAndPolicyPages.py" />
         <option value="$PROJECT_DIR$/draft.py" />
-        <option value="$PROJECT_DIR$/LanguageChange.py" />
-        <option value="$PROJECT_DIR$/FullCowCardEdit.py" />
         <option value="$PROJECT_DIR$/FarmTrendsNavigation.py" />
         <option value="$PROJECT_DIR$/BatchActions.py" />
-        <option value="$PROJECT_DIR$/AddNewCowCard.py" />
         <option value="$PROJECT_DIR$/draft1.py" />
         <option value="$PROJECT_DIR$/RegistrationTest.py" />
         <option value="$PROJECT_DIR$/OpenMoreReports.py" />
+        <option value="$PROJECT_DIR$/AddNewCowCard.py" />
+        <option value="$PROJECT_DIR$/LanguageChange.py" />
+        <option value="$PROJECT_DIR$/FullCowCardEdit.py" />
         <option value="$PROJECT_DIR$/HC24AutomationRun.py" />
       </list>
     </option>
@@ -160,14 +328,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -213,17 +376,21 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../USAproject" />
     <property name="FullScreen" value="false" />
     <property name="options.lastSelected" value="configurable.group.editor" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -231,10 +398,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.HC24AutomationRun">
-    <configuration default="false" name="Unittest FarmTrendsSwitchFirefox.test_2_Switch_Farm_Trends" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="HC24AutomationRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -242,16 +411,9 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Selenium" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FarmTrendsNavigation.py" />
-      <option name="CLASS_NAME" value="FarmTrendsSwitchFirefox" />
-      <option name="METHOD_NAME" value="test_2_Switch_Farm_Trends" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HC24AutomationRun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
@@ -331,22 +493,27 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="HC24AutomationRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittests in LoginTestIE" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <envs />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Selenium" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HC24AutomationRun.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HC24Login.py" />
+      <option name="CLASS_NAME" value="LoginTestIE" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
@@ -369,7 +536,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -380,55 +547,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Selenium" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -479,20 +598,128 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest FarmTrendsSwitchFirefox.test_2_Switch_Farm_Trends" />
+      <item index="0" class="java.lang.String" itemvalue="Python.HC24AutomationRun" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest SwitchReportsTestFirefox.test_2_BatchActions_on_Firefox" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Selenium" />
       <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest RegistrationTestFirefox.test_1_Registretion_New_mail_process_on_Firefox" />
-      <item index="4" class="java.lang.String" itemvalue="Python.HC24AutomationRun" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in LoginTestIE" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.HC24AutomationRun" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest RegistrationTestFirefox.test_1_Registretion_New_mail_process_on_Firefox" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Selenium" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest SwitchReportsTestFirefox.test_2_BatchActions_on_Firefox" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest FarmTrendsSwitchFirefox.test_2_Switch_Farm_Trends" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in LoginTestIE" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest RegistrationTestFirefox.test_1_Registretion_New_mail_process_on_Firefox" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Selenium" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest SwitchReportsTestFirefox.test_2_BatchActions_on_Firefox" />
       </list>
     </recent_temporary>
   </component>
@@ -510,28 +737,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14322917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2044293" sideWeight="0.50075644" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13396624" sideWeight="0.49924356" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21291053" sideWeight="0.49924356" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15161291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31578946" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -567,6 +794,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -818,17 +1050,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/FullCowCardEdit.py</url>
-          <line>329</line>
+          <line>342</line>
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/FullCowCardEdit.py</url>
-          <line>677</line>
+          <line>690</line>
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/FullCowCardEdit.py</url>
-          <line>282</line>
+          <line>284</line>
           <option name="timeStamp" value="154" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
@@ -861,58 +1093,172 @@
           <line>343</line>
           <option name="timeStamp" value="174" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/AddNewCowCard.py</url>
+          <line>321</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/LanguageChange.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FullCowCardEdit.py</url>
+          <line>832</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/RegistrationTest.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="175" />
+      <option name="time" value="179" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HC24AutomationRun.py">
+    <entry file="file://$PROJECT_DIR$/RegistrationTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="5202">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#934#1081#0" expanded="false" />
+            <element signature="e#1134#1259#0" expanded="false" />
+            <element signature="e#1303#1766#0" expanded="false" />
+            <element signature="e#1814#2236#0" expanded="false" />
+            <element signature="e#2311#15165#0" expanded="false" />
+            <element signature="e#15221#15273#0" expanded="false" />
+            <element signature="e#15379#15663#0" expanded="false" />
+            <element signature="e#15718#15856#0" expanded="false" />
+            <element signature="e#15900#16363#0" expanded="false" />
+            <element signature="e#16411#16833#0" expanded="false" />
+            <element signature="e#30117#30169#0" expanded="false" />
+            <element signature="e#30267#30552#0" expanded="false" />
+            <element signature="e#30605#30730#0" expanded="false" />
+            <element signature="e#30774#31170#0" expanded="false" />
+            <element signature="e#31218#31640#0" expanded="false" />
+            <element signature="e#31709#44555#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenMoreReports.py">
+    <entry file="file://$PROJECT_DIR$/FullCowCardEdit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="675" column="26" selection-start-line="675" selection-start-column="26" selection-end-line="675" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2234" max-vertical-offset="3536">
+          <caret line="867" column="46" selection-start-line="867" selection-start-column="46" selection-end-line="867" selection-end-column="46" />
           <folding>
-            <element signature="e#661#13646#0" expanded="false" />
-            <element signature="e#708#966#0" expanded="false" />
-            <element signature="e#1019#1144#0" expanded="false" />
-            <element signature="e#1188#1651#0" expanded="false" />
-            <element signature="e#1699#2121#0" expanded="false" />
-            <element signature="e#2178#4170#0" expanded="false" />
-            <element signature="e#11896#13539#0" expanded="false" />
-            <element signature="e#13594#13646#0" expanded="false" />
-            <element signature="e#13708#28755#0" expanded="false" />
-            <element signature="e#13755#14150#0" expanded="false" />
-            <element signature="e#14203#14341#0" expanded="false" />
-            <element signature="e#14385#14848#0" expanded="false" />
-            <element signature="e#14896#15318#0" expanded="false" />
-            <element signature="e#15374#19271#0" expanded="false" />
-            <element signature="e#19328#26935#0" expanded="false" />
-            <element signature="e#26993#28646#0" expanded="false" />
-            <element signature="e#28703#28755#0" expanded="false" />
-            <element signature="e#28856#29252#0" expanded="false" />
-            <element signature="e#29305#29430#0" expanded="false" />
-            <element signature="e#29474#29870#0" expanded="false" />
-            <element signature="e#29918#30340#0" expanded="false" />
-            <element signature="e#30392#34303#0" expanded="false" />
-            <element signature="e#41725#43332#0" expanded="false" />
+            <element signature="e#871#1129#0" expanded="false" />
+            <element signature="e#1182#1307#0" expanded="false" />
+            <element signature="e#1351#1814#0" expanded="false" />
+            <element signature="e#1862#2284#0" expanded="false" />
+            <element signature="e#2329#3799#0" expanded="false" />
+            <element signature="e#3885#10172#0" expanded="false" />
+            <element signature="e#10248#12634#0" expanded="false" />
+            <element signature="e#12682#16163#0" expanded="false" />
+            <element signature="e#16220#18212#0" expanded="false" />
+            <element signature="e#18270#23217#0" expanded="false" />
+            <element signature="e#23273#28230#0" expanded="false" />
+            <element signature="e#28288#29931#0" expanded="false" />
+            <element signature="e#29986#30038#0" expanded="false" />
+            <element signature="e#30147#30405#0" expanded="false" />
+            <element signature="e#30458#30583#0" expanded="false" />
+            <element signature="e#30627#31090#0" expanded="false" />
+            <element signature="e#31138#31560#0" expanded="false" />
+            <element signature="e#31605#33075#0" expanded="false" />
+            <element signature="e#33161#39448#0" expanded="false" />
+            <element signature="e#39524#41910#0" expanded="false" />
+            <element signature="e#41958#45439#0" expanded="false" />
+            <element signature="e#45496#49393#0" expanded="false" />
+            <element signature="e#59413#61066#0" expanded="false" />
+            <element signature="e#61229#92281#0" expanded="false" />
+            <element signature="e#61276#61534#0" expanded="false" />
+            <element signature="e#61587#61712#0" expanded="false" />
+            <element signature="e#61756#62219#0" expanded="false" />
+            <element signature="e#62267#62689#0" expanded="false" />
+            <element signature="e#62734#64204#0" expanded="false" />
+            <element signature="e#64290#70577#0" expanded="false" />
+            <element signature="e#70653#73039#0" expanded="false" />
+            <element signature="e#73087#76568#0" expanded="false" />
+            <element signature="e#76621#80532#0" expanded="false" />
+            <element signature="e#80588#85520#0" expanded="false" />
+            <element signature="e#85571#90513#0" expanded="false" />
+            <element signature="e#90566#92173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LanguageChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1044" max-vertical-offset="8670">
+          <caret line="601" column="0" selection-start-line="601" selection-start-column="0" selection-end-line="601" selection-end-column="0" />
+          <folding>
+            <element signature="e#1597#2436#0" expanded="false" />
+            <element signature="e#2484#2906#0" expanded="false" />
+            <element signature="e#2964#4957#0" expanded="false" />
+            <element signature="e#38459#40726#0" expanded="false" />
+            <element signature="e#40892#81788#0" expanded="false" />
+            <element signature="e#40939#41334#0" expanded="false" />
+            <element signature="e#41387#41525#0" expanded="false" />
+            <element signature="e#41569#42032#0" expanded="false" />
+            <element signature="e#42096#42663#0" expanded="false" />
+            <element signature="e#42721#46571#0" expanded="false" />
+            <element signature="e#46629#80013#0" expanded="false" />
+            <element signature="e#80069#81681#0" expanded="false" />
+            <element signature="e#81843#122422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddNewCowCard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="6732">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#1132#1257#0" expanded="false" />
+            <element signature="e#1301#1764#0" expanded="false" />
+            <element signature="e#1812#2234#0" expanded="false" />
+            <element signature="e#2279#3773#0" expanded="false" />
+            <element signature="e#3835#6787#0" expanded="false" />
+            <element signature="e#6863#9249#0" expanded="false" />
+            <element signature="e#9297#12778#0" expanded="false" />
+            <element signature="e#12835#14827#0" expanded="false" />
+            <element signature="e#19746#24511#0" expanded="false" />
+            <element signature="e#24573#26216#0" expanded="false" />
+            <element signature="e#26430#26825#0" expanded="false" />
+            <element signature="e#26878#27016#0" expanded="false" />
+            <element signature="e#27060#27523#0" expanded="false" />
+            <element signature="e#27571#27993#0" expanded="false" />
+            <element signature="e#28038#29536#0" expanded="false" />
+            <element signature="e#29598#32581#0" expanded="false" />
+            <element signature="e#32657#35043#0" expanded="false" />
+            <element signature="e#35091#38599#0" expanded="false" />
+            <element signature="e#38655#42552#0" expanded="false" />
+            <element signature="e#47487#52252#0" expanded="false" />
+            <element signature="e#52308#53961#0" expanded="false" />
+            <element signature="e#54018#54070#0" expanded="false" />
+            <element signature="e#54169#54565#0" expanded="false" />
+            <element signature="e#54618#54743#0" expanded="false" />
+            <element signature="e#54787#55183#0" expanded="false" />
+            <element signature="e#55231#55653#0" expanded="false" />
+            <element signature="e#55700#57170#0" expanded="false" />
+            <element signature="e#57232#60184#0" expanded="false" />
+            <element signature="e#60260#62646#0" expanded="false" />
+            <element signature="e#62694#66175#0" expanded="false" />
+            <element signature="e#66228#70139#0" expanded="false" />
+            <element signature="e#79967#81574#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SettingsEntry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8324" max-vertical-offset="9724">
           <caret line="516" column="44" selection-start-line="512" selection-start-column="14" selection-end-line="516" selection-end-column="44" />
           <folding>
             <element signature="e#560#818#0" expanded="false" />
@@ -944,7 +1290,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HC24AutomationRun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -952,7 +1298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SettingsTabNavigation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="9214">
           <caret line="157" column="75" selection-start-line="157" selection-start-column="75" selection-end-line="157" selection-end-column="75" />
           <folding>
             <element signature="e#522#12865#0" expanded="false" />
@@ -976,7 +1322,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HC24Login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4399" max-vertical-offset="5100">
           <caret line="425" column="22" selection-start-line="425" selection-start-column="22" selection-end-line="425" selection-end-column="22" />
           <folding>
             <element signature="e#531#789#0" expanded="false" />
@@ -989,8 +1335,6 @@
             <element signature="e#7212#7687#0" expanded="false" />
             <element signature="e#7735#8157#0" expanded="false" />
             <element signature="e#8211#12604#0" expanded="false" />
-            <element signature="e#14818#22757#0" expanded="false" />
-            <element signature="e#14865#15261#0" expanded="false" />
             <element signature="e#15940#16362#0" expanded="false" />
             <element signature="e#16412#20600#0" expanded="false" />
           </folding>
@@ -999,7 +1343,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DashboardData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5232" max-vertical-offset="6154">
           <caret line="493" column="15" selection-start-line="493" selection-start-column="15" selection-end-line="493" selection-end-column="15" />
           <folding>
             <element signature="e#558#816#0" expanded="false" />
@@ -1026,9 +1370,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Scripts/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14008">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HC24Login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#531#789#0" expanded="false" />
@@ -1041,17 +1392,22 @@
             <element signature="e#7212#7687#0" expanded="false" />
             <element signature="e#7735#8157#0" expanded="false" />
             <element signature="e#8211#12604#0" expanded="false" />
-            <element signature="e#14818#22757#0" expanded="false" />
-            <element signature="e#14865#15261#0" expanded="false" />
             <element signature="e#15940#16362#0" expanded="false" />
             <element signature="e#16412#20600#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Scripts/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14008">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HC24Login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#531#789#0" expanded="false" />
@@ -1064,17 +1420,22 @@
             <element signature="e#7212#7687#0" expanded="false" />
             <element signature="e#7735#8157#0" expanded="false" />
             <element signature="e#8211#12604#0" expanded="false" />
-            <element signature="e#14818#22757#0" expanded="false" />
-            <element signature="e#14865#15261#0" expanded="false" />
             <element signature="e#15940#16362#0" expanded="false" />
             <element signature="e#16412#20600#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Scripts/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14008">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HC24Login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#531#789#0" expanded="false" />
@@ -1087,45 +1448,85 @@
             <element signature="e#7212#7687#0" expanded="false" />
             <element signature="e#7735#8157#0" expanded="false" />
             <element signature="e#8211#12604#0" expanded="false" />
-            <element signature="e#14818#22757#0" expanded="false" />
-            <element signature="e#14865#15261#0" expanded="false" />
             <element signature="e#15940#16362#0" expanded="false" />
             <element signature="e#16412#20600#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Scripts/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14008">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Scripts/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14008">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Scripts/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14008">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../desktopApp/desktop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1043166" vertical-offset="152" max-vertical-offset="561">
+          <caret line="27" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.920635">
+        <state vertical-scroll-proportion="-9.920635" vertical-offset="5322" max-vertical-offset="14433">
           <caret line="178" column="27" selection-start-line="178" selection-start-column="27" selection-end-line="178" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2330" max-vertical-offset="2686">
           <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../filterSCRLogs/filterlogs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6910569" vertical-offset="0" max-vertical-offset="1224">
+          <caret line="20" column="82" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../filterSCRLogs/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48373982" vertical-offset="0" max-vertical-offset="1207">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenPDFReport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5805861">
+        <state vertical-scroll-proportion="0.5805861" vertical-offset="941" max-vertical-offset="2482">
           <caret line="134" column="20" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323263">
+        <state vertical-scroll-proportion="0.3323263" vertical-offset="9606" max-vertical-offset="14008">
           <caret line="583" column="0" selection-start-line="583" selection-start-column="0" selection-end-line="583" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddDeleteNoteToFarm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5642" max-vertical-offset="7769">
           <caret line="449" column="278" selection-start-line="449" selection-start-column="252" selection-end-line="449" selection-end-column="278" />
           <folding>
             <element signature="e#567#825#0" expanded="false" />
@@ -1146,7 +1547,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DashboardData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="2652">
           <caret line="94" column="42" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="42" />
           <folding>
             <element signature="e#558#816#0" expanded="false" />
@@ -1175,7 +1576,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FindCowFromDataTab.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2548" max-vertical-offset="4930">
           <caret line="169" column="32" selection-start-line="169" selection-start-column="32" selection-end-line="169" selection-end-column="32" />
           <folding>
             <element signature="e#0#15#0" expanded="false" />
@@ -1203,7 +1604,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NotIdentified.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1530">
           <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
           <folding>
             <element signature="e#571#829#0" expanded="false" />
@@ -1234,7 +1635,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenHealthReport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34249085">
+        <state vertical-scroll-proportion="0.34249085" vertical-offset="833" max-vertical-offset="3077">
           <caret line="111" column="67" selection-start-line="111" selection-start-column="67" selection-end-line="111" selection-end-column="67" />
           <folding>
             <element signature="e#686#944#0" expanded="false" />
@@ -1263,7 +1664,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenHeatReport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0970696">
+        <state vertical-scroll-proportion="-0.0970696" vertical-offset="1022" max-vertical-offset="2159">
           <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
           <folding>
             <element signature="e#562#820#0" expanded="false" />
@@ -1291,7 +1692,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SettingsEntry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2912088">
+        <state vertical-scroll-proportion="0.2912088" vertical-offset="776" max-vertical-offset="1615">
           <caret line="106" column="45" selection-start-line="106" selection-start-column="45" selection-end-line="106" selection-end-column="45" />
           <folding>
             <element signature="e#560#818#0" expanded="false" />
@@ -1323,7 +1724,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SettingsTabNavigation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5677656">
+        <state vertical-scroll-proportion="0.5677656" vertical-offset="4773" max-vertical-offset="6579">
           <caret line="525" column="6" selection-start-line="525" selection-start-column="6" selection-end-line="525" selection-end-column="6" />
           <folding>
             <element signature="e#522#12865#0" expanded="false" />
@@ -1347,7 +1748,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwitchGraphsOfCowCard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8992674">
+        <state vertical-scroll-proportion="-1.8992674" vertical-offset="2040" max-vertical-offset="10132">
           <caret line="125" column="51" selection-start-line="125" selection-start-column="51" selection-end-line="125" selection-end-column="51" />
           <folding>
             <element signature="e#0#15#0" expanded="false" />
@@ -1379,7 +1780,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwitchPagesWithArrows.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="8840">
           <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
           <folding>
             <element signature="e#715#973#0" expanded="false" />
@@ -1400,7 +1801,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwtchBetweenPagesOnAllCowsReport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73773587">
+        <state vertical-scroll-proportion="0.73773587" vertical-offset="986" max-vertical-offset="4437">
           <caret line="374" column="26" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
           <folding>
             <element signature="e#847#1105#0" expanded="false" />
@@ -1429,14 +1830,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CowCardSwitchBetweenGraphs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5773585">
+        <state vertical-scroll-proportion="0.5773585" vertical-offset="1513" max-vertical-offset="4250">
           <caret line="708" column="31" selection-start-line="708" selection-start-column="31" selection-end-line="708" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NextPrevCowCard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6584907">
+        <state vertical-scroll-proportion="-4.6584907" vertical-offset="2758" max-vertical-offset="7684">
           <caret line="318" column="16" selection-start-line="318" selection-start-column="16" selection-end-line="318" selection-end-column="16" />
           <folding>
             <element signature="e#709#967#0" expanded="false" />
@@ -1466,7 +1867,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TermAndPolicyPages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1190">
           <caret line="360" column="41" selection-start-line="360" selection-start-column="41" selection-end-line="360" selection-end-column="41" />
           <folding>
             <element signature="e#705#963#0" expanded="false" />
@@ -1488,32 +1889,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HC24Login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="95" column="45" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
-          <folding>
-            <element signature="e#531#789#0" expanded="false" />
-            <element signature="e#842#967#0" expanded="false" />
-            <element signature="e#1011#1486#0" expanded="false" />
-            <element signature="e#1534#1956#0" expanded="false" />
-            <element signature="e#2013#4353#0" expanded="false" />
-            <element signature="e#4413#6379#0" expanded="false" />
-            <element signature="e#6535#14773#0" expanded="false" />
-            <element signature="e#7212#7687#0" expanded="false" />
-            <element signature="e#7735#8157#0" expanded="false" />
-            <element signature="e#8211#12604#0" expanded="false" />
-            <element signature="e#14818#22757#0" expanded="false" />
-            <element signature="e#14865#15261#0" expanded="false" />
-            <element signature="e#15940#16362#0" expanded="false" />
-            <element signature="e#16412#20600#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HC24Dashboard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3655">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="e#657#915#0" expanded="false" />
@@ -1530,64 +1908,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LanguageChange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="715" column="8" selection-start-line="715" selection-start-column="8" selection-end-line="715" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FullCowCardEdit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="360" column="62" selection-start-line="357" selection-start-column="8" selection-end-line="360" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#826#1084#0" expanded="false" />
-            <element signature="e#1137#1262#0" expanded="false" />
-            <element signature="e#1306#1769#0" expanded="false" />
-            <element signature="e#1817#2239#0" expanded="false" />
-            <element signature="e#2284#3754#0" expanded="false" />
-            <element signature="e#3840#10127#0" expanded="false" />
-            <element signature="e#10203#12589#0" expanded="false" />
-            <element signature="e#12637#16118#0" expanded="false" />
-            <element signature="e#16175#18167#0" expanded="false" />
-            <element signature="e#18223#22812#0" expanded="false" />
-            <element signature="e#27887#29530#0" expanded="false" />
-            <element signature="e#29585#29637#0" expanded="false" />
-            <element signature="e#29699#60464#0" expanded="false" />
-            <element signature="e#29746#30004#0" expanded="false" />
-            <element signature="e#30057#30182#0" expanded="false" />
-            <element signature="e#30226#30689#0" expanded="false" />
-            <element signature="e#30737#31159#0" expanded="false" />
-            <element signature="e#31204#32674#0" expanded="false" />
-            <element signature="e#32760#39047#0" expanded="false" />
-            <element signature="e#39123#41509#0" expanded="false" />
-            <element signature="e#41557#45038#0" expanded="false" />
-            <element signature="e#45095#48992#0" expanded="false" />
-            <element signature="e#49047#53633#0" expanded="false" />
-            <element signature="e#53688#58646#0" expanded="false" />
-            <element signature="e#58702#60355#0" expanded="false" />
-            <element signature="e#60518#91211#0" expanded="false" />
-            <element signature="e#60565#60823#0" expanded="false" />
-            <element signature="e#60876#61001#0" expanded="false" />
-            <element signature="e#61045#61508#0" expanded="false" />
-            <element signature="e#61556#61978#0" expanded="false" />
-            <element signature="e#62023#63493#0" expanded="false" />
-            <element signature="e#63579#69866#0" expanded="false" />
-            <element signature="e#69942#72328#0" expanded="false" />
-            <element signature="e#72376#75857#0" expanded="false" />
-            <element signature="e#75910#79821#0" expanded="false" />
-            <element signature="e#79872#84446#0" expanded="false" />
-            <element signature="e#84497#89443#0" expanded="false" />
-            <element signature="e#89496#91103#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FarmTrendsNavigation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2924312">
+        <state vertical-scroll-proportion="0.2924312" vertical-offset="0" max-vertical-offset="872">
           <caret line="421" column="22" selection-start-line="421" selection-start-column="22" selection-end-line="421" selection-end-column="22" />
           <folding>
             <element signature="e#517#10726#0" expanded="false" />
@@ -1622,7 +1945,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BatchActions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="575" max-vertical-offset="2618">
           <caret line="308" column="45" selection-start-line="308" selection-start-column="45" selection-end-line="308" selection-end-column="45" />
           <folding>
             <element signature="e#0#15#0" expanded="false" />
@@ -1668,7 +1991,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwitchBetweenReports.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="470" max-vertical-offset="6562">
           <caret line="96" column="93" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="93" />
           <folding>
             <element signature="e#1017#1142#0" expanded="false" />
@@ -1697,29 +2020,115 @@
     </entry>
     <entry file="file://C:/Python27/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3600" max-vertical-offset="18173">
           <caret line="239" column="8" selection-start-line="239" selection-start-column="8" selection-end-line="239" selection-end-column="8" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenMoreReports.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.931472" vertical-offset="251" max-vertical-offset="4947">
+          <caret line="675" column="26" selection-start-line="675" selection-start-column="26" selection-end-line="675" selection-end-column="26" />
+          <folding>
+            <element signature="e#661#13646#0" expanded="false" />
+            <element signature="e#708#966#0" expanded="false" />
+            <element signature="e#1019#1144#0" expanded="false" />
+            <element signature="e#1188#1651#0" expanded="false" />
+            <element signature="e#1699#2121#0" expanded="false" />
+            <element signature="e#2178#4170#0" expanded="false" />
+            <element signature="e#11896#13539#0" expanded="false" />
+            <element signature="e#13594#13646#0" expanded="false" />
+            <element signature="e#13755#14150#0" expanded="false" />
+            <element signature="e#14203#14341#0" expanded="false" />
+            <element signature="e#14385#14848#0" expanded="false" />
+            <element signature="e#14896#15318#0" expanded="false" />
+            <element signature="e#15374#19271#0" expanded="false" />
+            <element signature="e#26993#28646#0" expanded="false" />
+            <element signature="e#28703#28755#0" expanded="false" />
+            <element signature="e#28856#29252#0" expanded="false" />
+            <element signature="e#29305#29430#0" expanded="false" />
+            <element signature="e#29474#29870#0" expanded="false" />
+            <element signature="e#29918#30340#0" expanded="false" />
+            <element signature="e#30392#34303#0" expanded="false" />
+            <element signature="e#41725#43332#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddNewCowCard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="309" column="39" selection-start-line="309" selection-start-column="39" selection-end-line="309" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="6732">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#1132#1257#0" expanded="false" />
+            <element signature="e#1301#1764#0" expanded="false" />
+            <element signature="e#1812#2234#0" expanded="false" />
+            <element signature="e#2279#3773#0" expanded="false" />
+            <element signature="e#3835#6787#0" expanded="false" />
+            <element signature="e#6863#9249#0" expanded="false" />
+            <element signature="e#9297#12778#0" expanded="false" />
+            <element signature="e#12835#14827#0" expanded="false" />
+            <element signature="e#19746#24511#0" expanded="false" />
+            <element signature="e#24573#26216#0" expanded="false" />
+            <element signature="e#26430#26825#0" expanded="false" />
+            <element signature="e#26878#27016#0" expanded="false" />
+            <element signature="e#27060#27523#0" expanded="false" />
+            <element signature="e#27571#27993#0" expanded="false" />
+            <element signature="e#28038#29536#0" expanded="false" />
+            <element signature="e#29598#32581#0" expanded="false" />
+            <element signature="e#32657#35043#0" expanded="false" />
+            <element signature="e#35091#38599#0" expanded="false" />
+            <element signature="e#38655#42552#0" expanded="false" />
+            <element signature="e#47487#52252#0" expanded="false" />
+            <element signature="e#52308#53961#0" expanded="false" />
+            <element signature="e#54018#54070#0" expanded="false" />
+            <element signature="e#54169#54565#0" expanded="false" />
+            <element signature="e#54618#54743#0" expanded="false" />
+            <element signature="e#54787#55183#0" expanded="false" />
+            <element signature="e#55231#55653#0" expanded="false" />
+            <element signature="e#55700#57170#0" expanded="false" />
+            <element signature="e#57232#60184#0" expanded="false" />
+            <element signature="e#60260#62646#0" expanded="false" />
+            <element signature="e#62694#66175#0" expanded="false" />
+            <element signature="e#66228#70139#0" expanded="false" />
+            <element signature="e#79967#81574#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LanguageChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1044" max-vertical-offset="8670">
+          <caret line="601" column="0" selection-start-line="601" selection-start-column="0" selection-end-line="601" selection-end-column="0" />
+          <folding>
+            <element signature="e#1597#2436#0" expanded="false" />
+            <element signature="e#2484#2906#0" expanded="false" />
+            <element signature="e#2964#4957#0" expanded="false" />
+            <element signature="e#38459#40726#0" expanded="false" />
+            <element signature="e#40892#81788#0" expanded="false" />
+            <element signature="e#40939#41334#0" expanded="false" />
+            <element signature="e#41387#41525#0" expanded="false" />
+            <element signature="e#41569#42032#0" expanded="false" />
+            <element signature="e#42096#42663#0" expanded="false" />
+            <element signature="e#42721#46571#0" expanded="false" />
+            <element signature="e#46629#80013#0" expanded="false" />
+            <element signature="e#80069#81681#0" expanded="false" />
+            <element signature="e#81843#122422#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RegistrationTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="5202">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
             <element signature="e#934#1081#0" expanded="false" />
             <element signature="e#1134#1259#0" expanded="false" />
             <element signature="e#1303#1766#0" expanded="false" />
             <element signature="e#1814#2236#0" expanded="false" />
+            <element signature="e#2311#15165#0" expanded="false" />
             <element signature="e#15221#15273#0" expanded="false" />
             <element signature="e#15379#15663#0" expanded="false" />
             <element signature="e#15718#15856#0" expanded="false" />
@@ -1735,43 +2144,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenMoreReports.py">
+    <entry file="file://$PROJECT_DIR$/FullCowCardEdit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="675" column="26" selection-start-line="675" selection-start-column="26" selection-end-line="675" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2234" max-vertical-offset="3536">
+          <caret line="867" column="46" selection-start-line="867" selection-start-column="46" selection-end-line="867" selection-end-column="46" />
           <folding>
-            <element signature="e#661#13646#0" expanded="false" />
-            <element signature="e#708#966#0" expanded="false" />
-            <element signature="e#1019#1144#0" expanded="false" />
-            <element signature="e#1188#1651#0" expanded="false" />
-            <element signature="e#1699#2121#0" expanded="false" />
-            <element signature="e#2178#4170#0" expanded="false" />
-            <element signature="e#11896#13539#0" expanded="false" />
-            <element signature="e#13594#13646#0" expanded="false" />
-            <element signature="e#13708#28755#0" expanded="false" />
-            <element signature="e#13755#14150#0" expanded="false" />
-            <element signature="e#14203#14341#0" expanded="false" />
-            <element signature="e#14385#14848#0" expanded="false" />
-            <element signature="e#14896#15318#0" expanded="false" />
-            <element signature="e#15374#19271#0" expanded="false" />
-            <element signature="e#19328#26935#0" expanded="false" />
-            <element signature="e#26993#28646#0" expanded="false" />
-            <element signature="e#28703#28755#0" expanded="false" />
-            <element signature="e#28856#29252#0" expanded="false" />
-            <element signature="e#29305#29430#0" expanded="false" />
-            <element signature="e#29474#29870#0" expanded="false" />
-            <element signature="e#29918#30340#0" expanded="false" />
-            <element signature="e#30392#34303#0" expanded="false" />
-            <element signature="e#41725#43332#0" expanded="false" />
+            <element signature="e#871#1129#0" expanded="false" />
+            <element signature="e#1182#1307#0" expanded="false" />
+            <element signature="e#1351#1814#0" expanded="false" />
+            <element signature="e#1862#2284#0" expanded="false" />
+            <element signature="e#2329#3799#0" expanded="false" />
+            <element signature="e#3885#10172#0" expanded="false" />
+            <element signature="e#10248#12634#0" expanded="false" />
+            <element signature="e#12682#16163#0" expanded="false" />
+            <element signature="e#16220#18212#0" expanded="false" />
+            <element signature="e#18270#23217#0" expanded="false" />
+            <element signature="e#23273#28230#0" expanded="false" />
+            <element signature="e#28288#29931#0" expanded="false" />
+            <element signature="e#29986#30038#0" expanded="false" />
+            <element signature="e#30147#30405#0" expanded="false" />
+            <element signature="e#30458#30583#0" expanded="false" />
+            <element signature="e#30627#31090#0" expanded="false" />
+            <element signature="e#31138#31560#0" expanded="false" />
+            <element signature="e#31605#33075#0" expanded="false" />
+            <element signature="e#33161#39448#0" expanded="false" />
+            <element signature="e#39524#41910#0" expanded="false" />
+            <element signature="e#41958#45439#0" expanded="false" />
+            <element signature="e#45496#49393#0" expanded="false" />
+            <element signature="e#59413#61066#0" expanded="false" />
+            <element signature="e#61229#92281#0" expanded="false" />
+            <element signature="e#61276#61534#0" expanded="false" />
+            <element signature="e#61587#61712#0" expanded="false" />
+            <element signature="e#61756#62219#0" expanded="false" />
+            <element signature="e#62267#62689#0" expanded="false" />
+            <element signature="e#62734#64204#0" expanded="false" />
+            <element signature="e#64290#70577#0" expanded="false" />
+            <element signature="e#70653#73039#0" expanded="false" />
+            <element signature="e#73087#76568#0" expanded="false" />
+            <element signature="e#76621#80532#0" expanded="false" />
+            <element signature="e#80588#85520#0" expanded="false" />
+            <element signature="e#85571#90513#0" expanded="false" />
+            <element signature="e#90566#92173#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HC24AutomationRun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6462141">
-          <caret line="238" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3799" max-vertical-offset="4641">
+          <caret line="251" column="57" selection-start-line="251" selection-start-column="57" selection-end-line="251" selection-end-column="57" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HC24Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.4962518" vertical-offset="103" max-vertical-offset="1921">
+          <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+          <folding>
+            <element signature="e#531#789#0" expanded="false" />
+            <element signature="e#842#967#0" expanded="false" />
+            <element signature="e#1011#1486#0" expanded="false" />
+            <element signature="e#1534#1956#0" expanded="false" />
+            <element signature="e#2013#4353#0" expanded="false" />
+            <element signature="e#4413#6379#0" expanded="false" />
+            <element signature="e#6535#14773#0" expanded="false" />
+            <element signature="e#7212#7687#0" expanded="false" />
+            <element signature="e#7735#8157#0" expanded="false" />
+            <element signature="e#8211#12604#0" expanded="false" />
+            <element signature="e#15940#16362#0" expanded="false" />
+            <element signature="e#16412#20600#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

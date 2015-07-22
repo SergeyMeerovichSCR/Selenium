@@ -13,6 +13,8 @@ import time
 import os,sys
 #pytest use for order testcase running order
 #import pytest
+#module for random cow numbers
+import random
 from datetime import datetime
 __author__ = 'sergey.meerovich'
 
@@ -281,6 +283,17 @@ class FullCowCardEditTestFirefox(unittest.TestCase):
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
         print 'Test Login_process_on_Firefox finish at :'+date_time_formatted
     def test_2_AddNewCowCard_on_Firefox(self):
+          #Decide a values for Create A new Cow Cards
+        global cow1
+        cow1=random.randint(500000,530000);
+        global cow1str
+        cow1str=str(cow1)
+        #print "Create a cow card :"+cow1str
+        global cow2
+        cow2=random.randint(530001,600000)
+        global cow2str
+        cow2str=str(cow2)
+        print "Create a cow card :"+cow2str
         #open Data tab
         date_time=datetime.now()
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
@@ -313,10 +326,10 @@ class FullCowCardEditTestFirefox(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
-        scr_tag_number=['100000','200000']
-        iso_number=['100000','200000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
+        scr_tag_number=[cow1str,cow2str]
+        iso_number=[cow1str,cow2str]
         lactation=['1','2']
         for x in range(0,2,1):
              self.driver.maximize_window()
@@ -375,8 +388,8 @@ class FullCowCardEditTestFirefox(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card
@@ -747,6 +760,16 @@ class FullCowCardEditTestChrome(unittest.TestCase):
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
         print 'Test Login_process_on_Chrome finish at :'+date_time_formatted
     def test_2_AddNewCowCard_on_Chrome(self):
+        #Decide a values for Create A new Cow Cards
+        global cow1
+        cow1=random.randint(500000,530000);
+        global cow1str
+        cow1str=str(cow1)
+        #print "Create a cow card :"+cow1str
+        global cow2
+        cow2=random.randint(530001,600000)
+        global cow2str
+        cow2str=str(cow2)
         #open Data tab
         date_time=datetime.now()
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
@@ -779,10 +802,10 @@ class FullCowCardEditTestChrome(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
-        scr_tag_number=['100000','200000']
-        iso_number=['100000','200000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
+        scr_tag_number=[cow1str,cow2str]
+        iso_number=[cow1str,cow2str]
         lactation=['1','2']
         for x in range(0,2,1):
              self.driver.maximize_window()
@@ -841,8 +864,8 @@ class FullCowCardEditTestChrome(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card
@@ -1215,6 +1238,17 @@ class FullCowCardEditTestIE(unittest.TestCase):
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
         print 'Test Login_process_on_IE finish at :'+date_time_formatted
     def test_2_AddNewCowCard_on_IE(self):
+             #Decide a values for Create A new Cow Cards
+        global cow1
+        cow1=random.randint(500000,530000);
+        global cow1str
+        cow1str=str(cow1)
+        #print "Create a cow card :"+cow1str
+        global cow2
+        cow2=random.randint(530001,600000)
+        global cow2str
+        cow2str=str(cow2)
+        print "Create a cow card :"+cow2str
         #open Data tab
         date_time=datetime.now()
         date_time_formatted=date_time.strftime("%d/%m/%Y  %H:%M:%S")
@@ -1247,10 +1281,10 @@ class FullCowCardEditTestIE(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
-        scr_tag_number=['100000','200000']
-        iso_number=['100000','200000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
+        scr_tag_number=[cow1str,cow2str]
+        iso_number=[cow1str,cow2str]
         lactation=['1','2']
         for x in range(0,2,1):
              self.driver.maximize_window()
@@ -1309,8 +1343,8 @@ class FullCowCardEditTestIE(unittest.TestCase):
 
         #Start switch and check between first and second page report of All Cows by use Right/Left Arrows
                   #Create A new Cow Cards
-        new_cow_book_numbers=['100000','200000']
-        new_cow_burn_numbers=['100000','200000']
+        new_cow_book_numbers=[cow1str,cow2str]
+        new_cow_burn_numbers=[cow1str,cow2str]
         for x in range(0,2,1):
              self.driver.maximize_window()
              #Open a New Cow Card

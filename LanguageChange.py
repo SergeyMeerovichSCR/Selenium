@@ -599,6 +599,7 @@ class LanguageChangeTestFirefox(unittest.TestCase):
     @classmethod
     def tearDownClass(self):
         #close the browser window
+
         self.driver.quit()
 
 
